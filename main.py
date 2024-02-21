@@ -29,24 +29,6 @@ def upload_script():
         {'message': 'Сценарий загружен'}), 200
 
 
-@app.route('/captionize', methods=['POST'])
-def captionize_image():
-    data = request.json
-    project_id = data['project_id']
-    create_project_if_not_exists(project_id)
-    # TODO
-    return jsonify({'message': 'Картинка распознана'}), 200
-
-
-@app.route('/determineAudio', methods=['POST'])
-def determine_audio():
-    data = request.json
-    project_id = data['project_id']
-    create_project_if_not_exists(project_id)
-    # TODO
-    return jsonify({'message': 'Звук распознан'}), 200
-
-
 @app.route('/matchScenes', methods=['POST'])
 def match_scenes():
     data = request.json
@@ -59,17 +41,7 @@ def match_scenes():
     result = match_phrases(files, projects_storage[project_id].script_file.phrases)
     converted_data = object_to_json(result)
     json_string = json.dumps(converted_data, ensure_ascii=False, indent=4)
-    # print(json_string)
     return json_string, 201
-
-
-@app.route('/matchTakes', methods=['POST'])
-def match_takes():
-    data = request.json
-    project_id = data['project_id']
-    create_project_if_not_exists(project_id)
-    # TODO
-    return jsonify({'message': 'Дубли определены'}), 200
 
 
 @app.route('/sync', methods=['POST'])
