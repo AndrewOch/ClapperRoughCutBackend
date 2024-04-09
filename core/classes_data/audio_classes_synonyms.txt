@@ -1,0 +1,303 @@
+laughter: laughter, laugh
+whistling: whistle
+skateboard: skateboard
+oboe: hautboy, oboe, hautbois
+aircraft: aircraft
+electric_guitar: electric guitar, electricguitar
+rope_skipping: rope skip
+train_whistle: train whistle
+scissors: scissorgrip, scissors, pairofscissors, scissor, scissorhold, scissorshold, scissorsgrip
+typewriter: typewriter
+whispering: voicelessness, susurrant, whisper, susurration, murmur, rustle
+theremin: theremin
+click: click, penetrate, chatter, dog, cluck, mouseclick, clack, chink, detent, pawl, comehome, getacross, clink, flick, fallintoplace, sinkin, snap, suctionstop, getthrough
+dog_growl: dog growl
+nose_blowing: nose blow
+brass_instrument: brass, brassinstrument, brass instrument
+liquid_dripping: liquid drip
+car_passing_by: car passing
+timpani: tympani, tympanum, kettledrum, kettle, timpani
+subway_metro: subway metro
+door_slam: door slam
+mosquito_buzz: mosquito buzz
+eruption: extravasation, eruption, eructation, outbreak, volcaniceruption, bang, irruption, bam
+sewing_machine: sew machine, sewingmachine
+boom: microphoneboom, expand, gravy, boomout, mannafromheaven, thrive, bonanza, godsend, gold rush, din, bunce, windfall, nail, boom, flourish, blast
+church_bell: church bell, churchbell
+liquid_splashing: liquid splash
+saxophone: saxophone, sax
+motorboat_speedboat: motorboat speedboat
+sheep_bleat: sheep bleat
+ocean: sea, ocean
+playing_volleyball: play volleyball
+crow_caw: crow caw
+coin_dropping: coin drop
+rapping: rap, pink, knap
+scuba_diving: scubadiving, scuba dive
+didgeridoo: didgeridoo
+helicopter: whirlybird, eggbeater, chopper, helicopter
+piano: soft, pianoforte, fortepiano, pianissimo, piano, softly
+frog: toad, gaul, toadfrog, frog, salientian, anuran, batrachian
+microwave_oven: microwaveoven, microwave, microwave oven
+door: threshold, roomaccess, doorway, door
+gurgling: gurgle, guggle, burble, ripple, bubble
+snicker: snigger, snort, snicker
+ratchet_and_pawl: ratchet pawl
+biting: pungent, bite, biting, nip, bitter, sting, prick, barbed, mordacious, seizewithteeth
+hi_hat: hi hat
+giggling: giggle, titter
+glass_breaking: glass breaking
+booing: hiss, booing, boo
+power_windows: power window
+cutlery_silverware: cutlery silverware
+dog_howl: dog howl
+wind_rustling_leaves: wind rustle leaf
+motorcycle: motorcycle, motorbike, bike
+percussion: pleximetry, rhythmsection, percussionsection, percussion
+clapping: clap, spat, applaud, acclaim
+dog_whimper: dog whimper
+snake_hiss: snake hiss
+shofar: shofar, shophar
+gong: chime, gong, tamtam
+bowling_impact: bowling impact
+train_horn: train horn
+boat_water_vehicle: boat water vehicle
+coyote_howl: coyote howl
+bird_flapping: bird flapping
+fire: gooff, givenotice, fervour, kindle, arouse, fervor, fervidness, evoke, enkindle, sack, discharge, dismiss, givethesack, sendaway, fervency, openfire, forceout, terminate, raise, fuel, flame, fire, attack, givetheaxe, burn, burndown, flack, displace, ardor, flak, elicit, ardour, provoke
+lawn_mower: mower, lawnmower, lawn mower
+speech: speech, mannerofspeaking, actorsline, lecture, talk, oralcommunication, speechcommunication, language, address, voicecommunication, delivery, spokenlanguage, spokencommunication, word
+artillery_fire: artillery fire, artilleryfire, cannonfire
+mandolin: mandolin
+owl_hoot: owl hoot
+clarinet: clarinet
+disc_scratching: disc scratch
+camera: photographiccamera, camera, tvcamera, televisioncamera
+raindrop: raindrop
+singing_bowl: sing bowl
+cheering: inspire, barrack, satisfy, pepup, cheerup, jollyalong, hearten, shout, cheer, chirkup, urge, urgeon, rooton, comfort, embolden, jollyup, recreate, exhort
+dog_bow_wow: dog bow wow
+belly_laugh: thighslapper, scream, howler, bellylaugh, guffaw, belly laugh, wow, riot, sidesplitter
+engine: locomotive, locomotiveengine, engine, railwaylocomotive
+mallet_percussion: mallet percussion
+tambourine: tambourine
+guitar_strum: guitar strum
+bowed_string_instrument: bow string instrument
+choir_singing: choir singing
+dishes_pots_pans: dish pot pan
+drawer_open_close: drawer open close
+rail_transport: rail transport
+wood_cracking: wood cracking
+bus: jalopy, passengervehicle, bustopology, autobus, motorbus, omnibus, busbar, motorcoach, doubledecker, charabanc, jitney, heap, bus
+electric_shaver: shaver, electric shaver, electricshaver, electricrazor
+underwater_bubbling: underwater bubbling
+alarm_clock: alarm clock, alarm, alarmclock
+liquid_squishing: liquid squish
+cymbal: cymbal
+fowl: poultry, domesticfowl, bird, fowl
+frog_croak: frog croak
+orchestra: orchestra
+rowboat_canoe_kayak: rowboat canoe kayak
+train: train, caravan, convoy, rail, railroad
+tap: rap, tapdance, tip, pink, wiretap, spigot, exploit, tap, intercept, strike, bug, waterfaucet, dab, solicit, pat, watertap, hydrant, beg
+tick: markoff, mark, tick, retick, checkmark, beat, tickoff, checkoff, ticktack, ticktock
+police_siren: police siren
+baby_crying: baby cry
+saw: saw
+liquid_sloshing: liquid slosh
+whoosh_swoosh_swish: whoosh swoosh swish
+playing_table_tennis: play table tennis
+snake_rattle: snake rattle
+toothbrush: soupstrainer, toothbrush
+wind_chime: wind chime, windchime, windbell
+vacuum_cleaner: vacuumcleaner, vacuum clean, vacuum
+rattle_instrument: rattle instrument
+ukulele: ukulele, uke
+babble: smatter, babble, ripple, bubble, blab, peach, guggle, blither, letthecatoutofthebag, blabout, babbleout, lallation, spillthebeans, burble, tattle, blether, blather, gurgle, babbling
+chopping_wood: chop wood
+chuckle_chortle: chuckle chortle
+snoring: snore, sawwood, sawlogs, stertor
+cat_purr: purr
+bell: bellshape, alexandermelvillebell, toll, alexandergrahambell, vanessastephen, chime, doorbell, buzzer, shipsbell, vanessabell, melvillebell, gong, alexanderbell, bell, campana
+whale_vocalization: whale vocalization
+clock: time, clock
+glockenspiel: glockenspiel, orchestralbells
+synthesizer: synthesiser, synthesizer, synthesist
+squeak: screak, squeak, closeshave, closecall, squeaker, skreak, creak, whine, narrowescape, screech
+wind_noise_microphone: wind noise microphone
+cough: cough
+bass_drum: bassdrum, grancasa, bass drum
+hair_dryer: handblower, hairdrier, hair dryer, blowdryer, blowdrier, hairdryer
+sigh: sigh, suspire, suspiration
+bird_chirp_tweet: bird chirp tweet
+airplane: plane, airplane, aeroplane
+yell: vociferation, scream, cry, holler, outcry, shout, squall, yell
+mechanical_fan: mechanical fan
+truck: handtruck, truck, motortruck
+bicycle_bell: bicycle bell
+slap_smack: slap smack
+waterfall: fall, waterfall
+bagpipes: bagpipe
+breathing: takeabreath, ventilation, suspire, breathe, eupnoeic, rest, respire, respiration, externalrespiration, takeabreather, emit, passoff, eupneic, catchonesbreath, breathing
+siren: temptress, siren, delilah, femmefatale, enchantress
+ringtone: ringtone
+guitar: guitar
+turkey_gobble: turkey gobble
+keys_jangling: key jangle
+chicken_cluck: chicken cluck
+knock: knock, ping, whack, criticise, roast, belt, rap, strikehard, bash, whang, criticize, pickapart, bang, pink, bump, tap
+bass_guitar: bass guitar, bassguitar
+playing_squash: play squash
+organ: hammondorgan, reedorgan, harmonium, electronicorgan, organ, electricorgan, pipeorgan
+foghorn: fogsignal, foghorn
+dog: hound, dog, pup, puppy
+gunshot_gunfire: gunshot gunfire
+hammond_organ: hammondorgan, electronicorgan, hammond organ, electricorgan, organ
+hammer: malleus, pound, powerhammer, mallet, forge, hammer, cock
+steel_guitar_slide_guitar: steel guitar slide guitar
+civil_defense_siren: civil defense siren
+engine_idling: engine idling
+pig_oink: pig oink
+music: music, euphony, medicine
+flute: champagneflute, transverseflute, flute, fluting, fluteglass
+engine_knocking: engine knocking
+sailing: soar, glide, navigation, voyage, sail, sailplane, seafaring, sweep, navigate
+glass_clink: glass clink
+tabla: tabla
+liquid_pouring: liquid pouring
+cowbell: cowbell
+fireworks: firework, pyrotechnic
+boiling: stew, seethe, boil, roil, churn, simmer, moil
+elk_bugle: elk bugle
+gasp: puff, pant, heave, gasp
+water_tap_faucet: water tap faucet
+chainsaw: chainsaw
+chewing: jaw, manducate, chew, masticate, mastication, manduction
+electronic_organ: hammondorgan, electronicorgan, electronic organ, electricorgan, organ
+wind: steer, hint, lift, curve, tip, malarky, wind, scent, idlewords, currentofair, meander, nothingness, hoist, malarkey, windinstrument, twine, windup, weave, thread, breakingwind, aircurrent, jazz, flatus, wander, wrap, nose, roll, fart, wreathe, confidentialinformation, twist
+chatter: click, jaw, palaver, gibber, gossip, chatter, piffle, gabble, chitchat, natter, clack, visit, blab, twaddle, prate, confab, yak, chat, claver, tattle, maunder, blabber, chaffer, shootthebreeze, chewthefat, tittletattle, yack, cackle, yaketyyak, prattle, confabulate
+engine_starting: engine start
+fire_crackle: fire crackle
+hiccup: singultus, hiccup, hiccough
+wind_instrument: wind, windinstrument, wind instrument
+lion_roar: lion, roar
+train_wheels_squealing: wheel squeal
+humming: seethe, buzz, thrum, hum
+chime: chime
+crowd: push, bunch, crowd, crew, gang, crowdtogether, herd
+thunderstorm: electricalstorm, thunderstorm, electricstorm
+shout: vociferation, holler, outcry, shout, exclaim, abuse, shoutout, cryout, callout, squall, clapperclaw, blackguard, yell
+thump_thud: thump thud
+harmonica: harmonica, mouthorgan
+sink_filling_washing: sink fill wash
+traffic_noise: traffic noise
+railroad_car: railroad car, railway car, railcar
+firecracker: firecracker, cracker, banger
+rain: rain, raindown, rainwater, rainfall, pelt
+guitar_tapping: guitar tap
+tearing: buck, charge, shoot, bust, rupture, fierce, pluck, violent, vehement, triggerhappy, lachrymation, tear, displume, shootdown, deplumate, deplume, lacrimation
+reverse_beeps: reverse beep
+playing_hockey: play hockey
+horse_neigh: horse neigh
+person_running: person run
+slurp: slurp
+goose_honk: goose honk
+playing_badminton: play badminton
+double_bass: bassviol, bullfiddle, double bass, contrabass, stringbass, bassfiddle, doublebass
+crushing: crush, smash, quell, devastate, suppression, oppress, trounce, beatout, suppress, demolish, stifle, squelch, squeeze, mash, jam, vanquish, shell, breakdown, squash
+playing_tennis: play tennis
+thunder: nosedrops, helldust, thunder, scag, skag, smack, bigh
+vibraphone: vibe, vibraphone, vibraharp
+drum_kit: drum kit
+bicycle: pedal, wheel, cycle, bicycle
+trombone: trombone
+bird: razz, shuttle, wench, hoot, hiss, doll, birdie, skirt, raspberry, bird, chick, snort, bronxcheer, fowl, birdwatch, dame, shuttlecock
+zither: zither, cither, zithern
+baby_laughter: baby laughter
+yodeling: yodel, descant, warble
+person_shuffling: person shuffle
+race_car: racecar, racingcar, racer, race car
+acoustic_guitar: acousticguitar, acoustic guitar
+bathtub_filling_washing: bathtub fill wash
+printer: pressman, printer, printingmachine
+air_conditioner: air conditioner, airconditioner, airconditioning
+fly_buzz: fly buzz
+duck_quack: duck quack
+burp: burping, belching, burp, belch, eructation, eruct, bubble
+horse_clip_clop: horse clip clop
+singing: singe, blab, sing, scorch, spillthebeans, peach, sear, cantabile, vocalize, tell, letthecatoutofthebag, whistle, tattle, blabout, swinge
+door_sliding: door slide
+cat: cat, kitten, kitty, mouser, puss, pussycat, tom, tomcat, tabby, ocelot, panther, puma, tiger, wildcat, caracal, lion
+marimba_xylophone: marimba xylophone
+engine_accelerating_revving: engine accelerate rev
+door_bell: door bell
+stream_burbling: stream burbling
+person_walking: person walk
+insect: dirtball, insect, worm, louse
+air_horn: air horn, airhorn
+plucked_string_instrument: pluck string instrument
+fire_engine_siren: fire engine siren
+trumpet: horn, cornet, trump, trumpet
+applause: applause, hand clap
+sitar: sitar
+finger_snapping: finger snap
+vehicle_skidding: vehicle skid
+harpsichord: harpsichord, cembalo
+drill: recitation, exercise, bore, drill, mandrillusleucophaeus, practise, practicesession, practice
+dog_bark: bark, dog voice
+liquid_spraying: liquid spray
+battle_cry: watchword, battle cry, rallyingcry, warwhoop, battlecry, warcry
+screaming: scream, holler, hollo, yell, uproarious, hilarious, shriek, screech
+zipper: zipper, zipup, slidefastener, zipfastener, zip
+writing: authorship, composition, write, indite, writtenmaterial, pieceofwriting, publish, pen, committaltowriting, compose, save, spell, dropaline
+sneeze: sneeze, sternutation
+skiing: ski, skiing
+bassoon: bassoon
+accordion: squeezebox, accordion, pianoaccordion
+steelpan: steelpan
+basketball_bounce: basketball bounce
+frying_food: fry food
+smoke_detector: smoke detector
+sea_waves: sea wave
+cat_meow: meow
+telephone: telephony, call, callup, telephoneset, telephone, ring, phone
+drum: swot, barrel, drum, swotup, getup, beat, grindaway, mugup, tympan, bone, drumfish, cram, brakedrum, boneup, metaldrum, thrum, membranophone
+power_tool: powertool, power tool
+chicken: chickenhearted, gallusgallus, volaille, yellow, poulet, chicken, wimp, yellowbellied, crybaby, whitelivered, lilylivered
+blender: liquidiser, liquidizer, blender
+typing_computer_keyboard: type computer keyboard
+liquid_filling_container: liquid filling container
+pigeon_dove_coo: pigeon dove coo
+chopping_food: chop food
+keyboard_musical: keyboard musical
+telephone_bell_ringing: telephone bell ring
+hedge_trimmer: hedge trimmer, hedgetrimmer
+cow_moo: cow moo
+liquid_trickle_dribble: liquid trickle dribble
+harp: harp, dwell, mouthorgan, mouthharp
+snare_drum: sidedrum, snare drum, snaredrum, snare
+water_pump: water pump, waterpump
+banjo: banjo
+rooster_crow: rooster crow
+tuning_fork: tuningfork, tune fork
+children_shouting: child shout
+typing: typecast, type, typewrite
+toilet_flush: toilet flush
+cello: cello, violoncello
+gargling: rinse, gargle
+bird_squawk: bird squawk
+bee_buzz: bee buzz
+french_horn: french horn, horn, frenchhorn
+tick_tock: tick tock
+violin_fiddle: violin fiddle
+emergency_vehicle: emergency vehicle
+crying_sobbing: cry sob
+water: watersystem, watersupply, weewee, irrigate, pee, urine, water, piddle, bodyofwater, piss, h2o
+car_horn: automobilehorn, motorhorn, car horn, horn, hooter, carhorn
+silence: still, quiet, shutup, muteness, quieten, silence, hush, hushup, secretiveness, secrecy
+ambulance_siren: ambulance siren
+crumpling_crinkling: crumple crinkle
+cricket_chirp: cricket chirp
+electric_piano: electric piano
+beep: claxon, honk, bleep, blare, toot, beep
+bird_vocalization: bird vocalization

@@ -1,0 +1,126 @@
+airport inside: airport inside
+artstudio: artstudio
+auditorium: auditorium
+bakery: bakeshop, bakery, bakehouse
+bookstore: bookstore, bookshop, bookstall
+bowling: bowling
+buffet: snackcounter, batter, sideboard, counter, buff, buffet, snackbar, knockabout
+casino: cassino, gamblingcasino, casino
+children room: child room
+church inside: church inside
+classroom: schoolroom, classroom
+cloister: cloister, religiousresidence
+closet: watercloset, cupboard, loo, closet, wardrobe, press, wc
+clothingstore: clothingstore
+computerroom: computerroom
+concert hall: concert hall
+corridor: corridor
+deli: foodshop, delicatessen, deli
+dentaloffice: dentaloffice
+dining room: dining room
+elevator: elevator, lift
+fastfood restaurant: fastfood restaurant
+florist: floristshop, florist, flowerstore
+gameroom: gameroom
+garage: garage, servicedepartment
+greenhouse: greenhouse, glasshouse
+grocerystore: grocerystore
+gym: gymnasium, gym
+hairsalon: hairsalon
+hospitalroom: hospitalroom
+inside bus: inside bus
+inside subway: inside subway
+jewelleryshop: jewelleryshop
+kindergarden: kindergarden
+kitchen: kitchen
+laboratorywet: laboratorywet
+laundromat: launderette, laundromat
+library: depositorylibrary, library, programlibrary, subroutinelibrary
+livingroom: livingroom
+lobby: buttonhole, hall, entrancehall, pressuregroup, thirdhouse, antechamber, lobby, vestibule, foyer, anteroom
+locker room: locker room
+mall: mall, center, plaza, shoppingcenter, shoppingmall, shoppingcentre, promenade
+meeting room: meeting room
+movietheater: movietheater
+museum: museum
+nursery: nursery, babysroom
+office: billet, businessoffice, part, governmentagency, position, post, power, berth, situation, function, bureau, authority, place, federalagency, role, officestaff, office, agency, spot
+operating room: operating room
+pantry: larder, buttery, pantry
+poolinside: poolinside
+prisoncell: prisoncell
+restaurant: eatinghouse, eatery, restaurant, eatingplace
+restaurant kitchen: restaurant kitchen
+shoeshop: shoeshop
+stairscase: stairscase
+studiomusic: studiomusic
+subway: underpass, subwaysystem, subway, tube, underground, metro
+toystore: toystore
+trainstation: trainstation
+tv studio: tv studio
+videostore: videostore
+waitingroom: waitingroom
+warehouse: warehouse, storagewarehouse
+winecellar: winecellar
+airport: drome, aerodrome, airport, airdrome
+alley: alley, bowlingalley, skittlealley, alleyway, backstreet
+beach: beach
+bridge: bridgecircuit, nosepiece, span, bridge, bridgedeck, bridgeover, bridgework
+campsite: camping area, camping site, bivouac, campsite, encampment, camping ground, campground
+canyon: canyon, canon
+cemetery: cemetery, necropolis, memorial park, burialsite, burying ground, graveyard, burial ground
+church: church building, church, christian church, church service
+city: city, metropolis, urban center
+cliff: drop off, cliff
+coast: coast, seacoast, slide, seashore, glide
+construction site: construction site
+dam: dam, damup, dekameter, decametre, dyke, dkm, dike, decameter, dekametre
+desert: desert, defect, forsake, abandon, desolate
+farm: raise, farm, grow, produce
+festival: festival, fete
+field: area, plain, champaign, subject, sphere, battleground, orbit, bailiwick, line business, airfield, study, field, battlefield, landing, domain
+forest: woodland, timberland, forest, afforest, wood, timber
+fortress: fortress, fort
+garden: garden
+glacier: glacier
+harbor: nurse, seaport, entertain, harbor, shield, harbour
+hills: bennyhill, mound, pitchersmound, jjhill, alfredhawthorne, jamesjeromehill, hill
+island: island
+jungle: hobocamp, jungle
+lake: lake
+lighthouse: beaconlight, lighthouse, pharos, beacon
+mine: mine
+mosque: mosque
+mountain: sight, wad, batch, deal, mess, mount, passel, flock, mountain, mass, muckle, peck, greatdeal, slew, quite little, hatful, mint, spate, stack, tidysum, plenty, pile, mickle
+observatory: observatory, observationtower, lookout, lookoutstation
+orchard: woodlet, orchard
+palace: castle, palace
+park: mungopark, carpark, green, park, parkinglot, ballpark, parkland, common
+plantation: plantation, grove
+port: portwine, interface, port, porthole, larboard, embrasure
+race track: race track
+railway: railroadtrack, railwayline, railwaysystem, railroadline, railway, railroad
+river: river
+road: route, road
+ruins: downfall, ruination, wreck, smash, bankrupt, ruin, layingwaste, deflower, destroy, break, dilapidation
+savanna: savannah, savanna
+square: lame, substantial, foursquare, squaretoes, satisfy, solid, feather, straightforward, squarely, hearty, straight, publicsquare, squareup, square, secondpower
+stadium: arena, sportsstadium, stadium
+street: street
+suburb: suburban area, suburb, suburbia
+swamp: swamp, flood, deluge, inundate, swampland, drench
+temple: tabernacle, temple, synagogue
+town: township, townspeople, townsfolk, ithieltown, town
+train station: train station
+tundra: tundra
+tunnel: burrow, tunnel
+underwater: submerge, subaquatic, underwater, subaqueous, submerse
+valley: valley, vale
+village: village, greenwichvillage, hamlet, settlement, smalltown
+volcano: volcano, vent
+waterfall: waterfall, fall
+wind farm: wind farm
+windmill: windmill, windgenerator, aerogenerator
+zoo: zoologicalgarden, zoo, menagerie
+interior: interior, indoors, inside building, inside house, room
+nature: nature, environment, landscape, world, outdoors, scenery

@@ -1,0 +1,4 @@
+day: daytime, day, daylight, sunlight, sunshine, bright
+evening: flush, eve, even out, eventide, even, level, last light, dusk, sundown, sunset, twilight
+morning: dayspring, aurora, forenoon, morningtime, dawn, morning, daybreak, break day, morn, sunrise, sunup, cockcrow, first light
+night: nox, night, dark, nighttime, midnight, bedtime, blackness, darkness, nightfall

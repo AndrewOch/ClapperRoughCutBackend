@@ -1,5 +1,12 @@
-fonetika
-librosa
-scikit-learn
+fonetika~=1.4.9
+librosa~=0.10.1
+scikit-learn~=1.4.0
 dtw-python
-numpy
+numpy~=1.26.4
+
+transformers~=4.39.0
+flask~=3.0.2
+icecream~=2.1.3
+nltk~=3.8.1
+spacy~=3.7.4
+PyDictionary~=2.0.1

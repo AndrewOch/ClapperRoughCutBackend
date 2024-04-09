@@ -1,0 +1,80 @@
+person: mortal, person, soul, individual, someone, somebody
+bicycle: wheel, cycle, pedal, bicycle
+car: railroad car, gondola, car, motorcar, railcar, auto, railway car, machine, elevator car, cable car, automobile
+motorcycle: motorbike, bike, motorcycle
+airplane: airplane, aeroplane, plane
+bus: jalopy, busbar, omnibus, charabanc, bus, jitney, passenger vehicle, autobus, bus topology, double decker, heap, motorbus, motorcoach
+train: train, caravan, convoy, rail, railroad
+truck: hand truck, truck, motor truck
+boat: boat
+traffic light: traffic light
+fire hydrant: fire hydrant
+stop sign: stop sign
+parking meter: parking meter
+bench: workbench, judiciary, terrace, bench
+bird: razz, fowl, skirt, shuttlecock, birdie, shuttle, dame, birdwatch, doll, wench, hoot, bronxcheer, bird, snort, raspberry, boo, hiss, chick
+cat: cat, kitten, kitty, mouser, puss, pussycat, tom, tomcat, tabby, ocelot, panther, puma, tiger, wildcat, caracal, lion
+dog: hound, dog, pup, puppy
+horse: equuscaballus, knight, horse, sawbuck, sawhorse, buck, gymnastic horse, horse cavalry, cavalry
+sheep: sheep
+cow: moo cow, cow, overawe
+elephant: elephant
+bear: bear
+zebra: zebra
+giraffe: giraffacamelopardalis, camelopard, giraffe
+backpack: rucksack, backpack, pack, packsack, haversack, knapsack
+umbrella: umbrella
+handbag: pocketbook, handbag, purse, bag
+tie: draw, wed, link, tie, sleeper, marry, affiliation, attach, connect, tiein, necktie, splice, tieup, railroadtie, tiebeam, crosstie, bind, linkup, standoff, bond, association
+suitcase: suitcase, grip, case
+frisbee: frisbee
+skis: ski
+snowboard: snowboard
+sports ball: sport ball
+kite: kite
+baseball bat: baseball bat
+baseball glove: baseball glove
+skateboard: skateboard
+surfboard: surf, surfboard
+tennis racket: tennis racket
+bottle: bottleful, feedingbottle, nursingbottle, bottle
+wine glass: wine glass
+cup: lovingcup, transfuse, cupful, cup
+fork: fork, ramification, branch, branching, furcate, separate, ramify, pitchfork, crotch
+knife: stab, tongue, knife
+spoon: smooch, spoonful, spoon
+bowl: bowl, trough, bowlful
+banana: banana, bananatree
+apple: maluspumila, orchardappletree, apple
+sandwich: sandwich
+orange: orangeriver, orangeness, orangetree, orange, orangish
+broccoli: broccoli, brassicaoleraceaitalica
+carrot: daucuscarotasativa, carrot, cultivatedcarrot
+hot dog: hot dog
+pizza: pizzapie, pizza
+donut: doughnut, sinker, donut
+cake: coat, patty, cake, bar
+chair: seat, chair, chairwoman
+couch: couch, redact, lounge, sofa
+potted plant: pot plant
+bed: bed, mattress, bunk, cot
+dining table: din table
+toilet: lavatory, throne, stool, sewer, bathroom, john, crapper, potty, privy, lav, toilet, gutter, commode, toilette
+tv: idiotbox, telly, video, television, tv, tvset, televisionreceiver, boobtube, telecast, televisionset, gogglebox
+laptop: laptopcomputer, laptop
+mouse: pussyfoot, blackeye, creep, shiner, sneak, mouse, computermouse
+remote: remote, tv control
+keyboard: keyboard
+cell phone: cell phone
+microwave: nuke, microcook, zap, microwaveoven, microwave
+oven: oven
+toaster: toaster, wassailer
+sink: cesspit, falloff, gounder, godown, slump, sink, subside, lapse, swallowhole, drop, sinkhole, dropdown, sump, pas, cesspool, settle, bury, dip, slidedown
+refrigerator: refrigerator, icebox
+book: text, holywrit, playscript, word god, rulebook, script, book, alquran, scripture, ledger, quran, holy scripture, bible, record, koran, reserve, leger
+clock: clock
+vase: vase
+scissors: scissor, scissorsgrip, scissorshold, scissorgrip, scissorhold, pairofscissors, scissors
+teddy bear: teddy bear
+hair drier: hair drier
+toothbrush: soupstrainer, toothbrush

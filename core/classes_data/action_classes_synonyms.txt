@@ -1,0 +1,400 @@
+abseiling: rappel, abseil, ropedown
+air drumming: air drum
+answering questions: answer question
+applauding: applaud, clap, acclaim, spat
+applying cream: apply cream
+archery: archery
+arm wrestling: arm wrestling
+arranging flowers: arrange flower
+assembling computer: assemble computer
+auctioning: auctionoff, auctioneer, auction
+baby waking up: baby wake
+baking cookies: bake cooky
+balloon blowing: balloon blowing
+bandaging: binding, bind, bandage, bandaging, dress
+barbequing: barbeque, cookout, barbecue, barbequing
+bartending: bartending
+beatboxing: beatboxing
+bee keeping: bee keep
+belly dancing: belly dance
+bench pressing: bench press
+bending back: bend back
+bending metal: bend metal
+biking through snow: biking snow
+blasting sand: blasting sand
+blowing glass: blow glass
+blowing leaves: blow leaf
+blowing nose: blow nose
+blowing out candles: blowing candle
+bobsledding: bobsledding
+bookbinding: bookbinding
+bouncing on trampoline: bounce trampoline
+bowling: bowl, bowling
+braiding hair: braid hair
+breading or breadcrumbing: bread breadcrumbing
+breakdancing: breakdancing
+brush painting: brush painting
+brushing hair: brush hair
+brushing teeth: brush teeth
+building cabinet: building cabinet
+building shed: building shed
+bungee jumping: bungee jumping
+busking: busking, busk
+canoeing or kayaking: canoe kayak
+capoeira: capoeira
+carrying baby: carry baby
+cartwheeling: cartwheel
+carving pumpkin: carve pumpkin
+catching fish: catch fish
+catching or throwing baseball: catch throw baseball
+catching or throwing frisbee: catch throw frisbee
+catching or throwing softball: catch throw softball
+celebrating: celebrate, lionize, fete, observe, lionise, keep
+changing oil: change oil
+changing wheel: change wheel
+checking tires: checking tire
+cheerleading: cheerlead
+chopping wood: chop wood
+clapping: applaud, spat, applause, handclapping, clap, acclaim
+clay pottery making: clay pottery making
+clean and jerk: clean jerk
+cleaning floor: cleaning floor
+cleaning gutters: clean gutter
+cleaning pool: clean pool
+cleaning shoes: cleaning shoe
+cleaning toilet: clean toilet
+cleaning windows: cleaning window
+climbing a rope: climb rope
+climbing ladder: climb ladder
+climbing tree: climb tree
+contact juggling: contact juggling
+cooking chicken: cook chicken
+cooking egg: cook egg
+cooking on campfire: cooking campfire
+cooking sausages: cooking sausage
+counting money: count money
+country line dancing: country line dance
+cracking neck: crack neck
+crawling baby: crawl baby
+crossing river: cross river
+crying: scream, outcry, battlecry, rallyingcry, clamant, exigent, rank, gross, exclaim, egregious, shoutout, hollo, squall, weep, yell, tear, warcry, holler, blazonout, shout, instant, flagrant, callout, cry, watchword, cryout, glare, insistent, vociferation
+curling hair: curl hair
+cutting nails: cut nail
+cutting pineapple: cut pineapple
+cutting watermelon: cut watermelon
+dancing ballet: dance ballet
+dancing charleston: dance charleston
+dancing gangnam style: dance gangnam style
+dancing macarena: dance macarena
+deadlifting: deadlifting
+decorating the christmas tree: decorate christmas tree
+digging: apprehend, grind, poke, jab, dig, excavate, grasp, compass, hollow, savvy, travail, labour, moil, fag, drudge, digout, cutinto, labor, prod, grok, excavation, delve, turnover, toil, comprehend, digup, stab
+dining: dine, din, boom
+disc golfing: disc golfing
+diving cliff: dive cliff
+dodgeball: dodgeball
+doing aerobics: aerobics
+doing laundry: laundry
+doing nails: nail
+drawing: draw, absorb, tie, draught, puff, withdraw, line, soak up, delineate, depict
+dribbling basketball: dribble basketball
+drinking: drinking, crapulence, salute, imbibition, drunkenness, fuddle, imbibe, drink, drinkin, wassail, pledge, tope, toast, booze
+drinking beer: drink beer
+drinking shots: drink shot
+driving car: driving car
+driving tractor: drive tractor
+drop kicking: drop kicking
+drumming fingers: drum finger
+dunking basketball: dunk basketball
+dying hair: die hair
+eating burger: eat burger
+eating cake: eat cake
+eating carrots: eat carrot
+eating chips: eat chip
+eating doughnuts: eat doughnut
+eating hotdog: eat hotdog
+eating ice cream: eat ice cream
+eating spaghetti: eat spaghetti
+eating watermelon: eat watermelon
+egg hunting: egg hunt
+exercising arm: exercise arm
+exercising with an exercise ball: exercise exercise ball
+extinguishing fire: extinguish fire
+faceplanting: faceplanting
+feeding birds: feeding bird
+feeding fish: feed fish
+feeding goats: feed goat
+filling eyebrows: filling eyebrow
+finger snapping: finger snap
+fixing hair: fix hair
+flipping pancake: flip pancake
+flying kite: fly kite
+folding clothes: folding clothes
+folding napkins: folding napkin
+folding paper: fold paper
+front raises: front raise
+frying vegetables: frying vegetable
+garbage collecting: garbage collect
+gargling: gargle, rinse
+getting a haircut: get haircut
+getting a tattoo: get tattoo
+giving or receiving award: give receive award
+golf chipping: golf chip
+golf driving: golf drive
+golf putting: golf put
+grinding meat: grind meat
+grooming dog: groom dog
+grooming horse: groom horse
+gymnastics tumbling: gymnastics tumble
+hammer throw: hammer throw
+headbanging: headbanging
+headbutting: headbutt
+high jump: high jump
+high kick: high kick
+hitting baseball: hit baseball
+hockey stop: hockey stop
+holding snake: hold snake
+hopscotch: hopscotch
+hoverboarding: hoverboarding
+hugging: neck, caress, cuddle, bosom, squeeze, hug, pet, fondle, smooch, embrace, snuggle
+hula hooping: hula hooping
+hurdling: hurdlerace, hurdle
+hurling (sport): hurl sport
+ice climbing: ice climb
+ice fishing: ice fishing
+ice skating: ice skate
+ironing: ironout, iron, press
+javelin throw: javelin throw
+jetskiing: jetskiing
+jogging: ramble, trot, clip, rambleon, evenup, jogging, jog, squareup
+juggling balls: juggling ball
+juggling fire: juggling fire
+juggling soccer ball: juggle soccer ball
+jumping into pool: jump pool
+jumpstyle dancing: jumpstyle dance
+kicking field goal: kick field goal
+kicking soccer ball: kick soccer ball
+kissing: neck, caress, cuddle, bus, snog, smooch, osculate, snuggle, kiss
+kitesurfing: kitesurfing
+knitting: pucker, crumple, knit, entwine, knitwork, rumple, cockle
+krumping: krumping
+laughing: laugh, expressjoy, riant, expressmirth
+laying bricks: lay brick
+long jump: long jump
+lunge: hurl, thrust, hurtle, lunge, straightthrust, passado, lurch
+making a cake: make cake
+making a sandwich: make sandwich
+making bed: make bed
+making jewelry: make jewelry
+making pizza: make pizza
+making snowman: make snowman
+making sushi: make sushi
+making tea: make tea
+marching: abut, demonstrate, exhibit, border, butt, march, button, parade, adjoin, buttagainst, edge, process
+massaging back: massage back
+massaging feet: massage foot
+massaging legs: massage leg
+massaging person's head: massage person head
+milking cow: milk cow
+mopping floor: mop floor
+motorcycling: motorbike, cycle, motorcycle
+moving furniture: move furniture
+mowing lawn: mow lawn
+news anchoring: news anchor
+opening bottle: open bottle
+opening present: open present
+paragliding: paragliding
+parasailing: parasailing
+parkour: parkour
+passing American football (in game): pass american football game
+passing American football (not in game): pass american football not game
+peeling apples: peel apple
+peeling potatoes: peeling potato
+petting animal (not cat): pet animal cat
+petting cat: pet cat
+picking fruit: pick fruit
+planting trees: plant tree
+plastering: poultice, plaster, plasterover, stickon, daub, beplaster
+playing accordion: play accordion
+playing badminton: play badminton
+playing bagpipes: play bagpipe
+playing basketball: play basketball
+playing bass guitar: play bass guitar
+playing cards: playing card
+playing cello: play cello
+playing chess: play chess
+playing clarinet: play clarinet
+playing controller: play controller
+playing cricket: play cricket
+playing cymbals: playing cymbal
+playing didgeridoo: play didgeridoo
+playing drums: play drum
+playing flute: play flute
+playing guitar: play guitar
+playing harmonica: playing harmonica
+playing harp: play harp
+playing ice hockey: play ice hockey
+playing keyboard: play keyboard
+playing kickball: play kickball
+playing monopoly: play monopoly
+playing organ: play organ
+playing paintball: play paintball
+playing piano: play piano
+playing poker: play poker
+playing recorder: play recorder
+playing saxophone: play saxophone
+playing squash or racquetball: play squash racquetball
+playing tennis: play tennis
+playing trombone: play trombone
+playing trumpet: play trumpet
+playing ukulele: play ukulele
+playing violin: play violin
+playing volleyball: play volleyball
+playing xylophone: play xylophone
+pole vault: pole vault
+presenting weather forecast: present weather forecast
+pull ups: pull ups
+pumping fist: pump fist
+pumping gas: pump gas
+punching bag: punch bag
+punching person (boxing): punch person box
+push up: push
+pushing car: push car
+pushing cart: push cart
+pushing wheelchair: push wheelchair
+reading book: read, look book
+reading newspaper: read newspaper
+recording music: record music
+riding a bike: rid bike
+riding camel: rid camel
+riding elephant: rid elephant
+riding mechanical bull: rid mechanical bull
+riding mountain bike: rid mountain bike
+riding mule: rid mule
+riding or walking with horse: rid walk horse
+riding scooter: rid scooter
+riding unicycle: rid unicycle
+ripping paper: rip paper
+robot dancing: robot dance
+rock climbing: rock climb
+rock scissors paper: rock scissors paper
+roller skating: roller skating
+running on treadmill: run treadmill
+sailing: soar, seafaring, navigation, sweep, voyage, sailplane, sail, glide, navigate
+salsa dancing: salsa dance
+sanding floor: sand floor
+scrambling eggs: scramble egg
+scuba diving: scuba dive
+setting table: set table
+shaking hands: shake hand
+shaking head: shake head
+sharpening knives: sharpen knife
+sharpening pencil: sharpen pencil
+shaving head: shave head
+shaving legs: shave leg
+shearing sheep: shear sheep
+shining shoes: shining shoe
+shooting basketball: shoot basketball
+shooting goal (soccer): shoot goal soccer
+shot put: shot put
+shoveling snow: shovel snow
+shredding paper: shred paper
+shuffling cards: shuffling card
+side kick: side kick
+sign language interpreting: sign language interpret
+singing: talk, swinge, tattle, tell, babble, blab out, scorch, cantabile, babble out, blab, singe, sear, spill beans, vocalize, sing, peach, let cat bag
+situp: situp
+skateboarding: skateboard
+ski jumping: ski jump
+skiing (not slalom or crosscountry): ski slalom crosscountry
+skiing crosscountry: ski crosscountry
+skiing slalom: ski slalom
+skipping rope: skip rope
+skydiving: skydive
+slacklining: slacklining
+slapping: slap
+sled dog racing: sled dog race
+smoking: fume, smoking, smoke
+smoking hookah: smoking hookah
+snatch weight lifting: snatch weight lift
+sneezing: sternutation, sneeze
+sniffing: whiff, sniff, sniffle
+snorkeling: snorkeldiving, snorkel
+snowboarding: snowboard
+snowkiting: snowkiting
+snowmobiling: snowmobile
+somersaulting: summersault, somerset, somersault, summerset, flip
+spinning poi: spin poi
+spray painting: spray painting
+spraying: cropdusting, spray
+springboard diving: springboard diving
+squat: crouch, hunkerdown, squatty, underslung, jack, kneebend, diddlyshit, diddley, diddlysquat, stumpy, squat, dumpy, lowset, hunker, chunky, scrunchup, doodlysquat, diddly, scrunch, shit
+sticking tongue out: stick tongue
+stomping grapes: stomp grape
+stretching arm: stretch arm
+stretching leg: stretch leg
+strumming guitar: strum guitar
+surfing crowd: surf crowd
+surfing water: surf water
+sweeping floor: sweeping floor
+swimming backstroke: swim backstroke
+swimming breast stroke: swim breast stroke
+swimming butterfly stroke: swim butterfly stroke
+swing dancing: swing dance
+swinging legs: swing leg
+swinging on something: swing something
+sword fighting: sword fighting
+tai chi: tai chi
+taking a shower: take shower
+tango dancing: tango dance
+tap dancing: tap dance
+tapping guitar: tap guitar
+tapping pen: tap pen
+tasting beer: taste beer
+tasting food: taste food
+testifying: take stand, bearwitness, show, testify, evidence, prove, attest
+texting: texting
+throwing axe: throw axe
+throwing ball: throw ball
+throwing discus: throw discus
+tickling: vibrate, titillation, tickle, thrill, titillate, vellicate, tingle
+tobogganing: toboggan, luge
+tossing coin: toss coin
+tossing salad: toss salad
+training dog: training dog
+trapezing: trapezing
+trimming or shaving beard: trim shave beard
+trimming trees: trim tree
+triple jump: triple jump
+tying bow tie: tie bow tie
+tying knot (not on a tie): tie knot tie
+tying tie: tie tie
+unboxing: unbox
+unloading truck: unload truck
+using computer: use computer
+using remote controller (not gaming): use remote controller gaming
+using segway: use segway
+vault: bankvault, vault, overleap, burialvault
+waiting in line: wait line
+walking the dog: walk dog
+washing dishes: wash dish
+washing feet: wash foot
+washing hair: wash hair
+washing hands: wash hand
+water skiing: water skiing
+water sliding: water slide
+watering plants: watering plant
+waxing back: wax back
+waxing chest: wax chest
+waxing eyebrows: wax eyebrow
+waxing legs: wax leg
+weaving basket: weave basket
+welding: weld
+whistling: sing, whistle
+windsurfing: windsurf
+wrapping present: wrap present
+wrestling: wrestle, twist, wriggle, worm, wrestling, writhe, squirm, rassling, handtohandstruggle, grapple
+writing: writtenmaterial, indite, authorship, dropaline, piece writing, save, spell, compose, pen, committaltowriting, composition, write, publish
+yawning: yawn, yaw, drowsy, gape, oscitant, oscitancy, oscitance
+yoga: yoga
+zumba: zumba

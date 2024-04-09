@@ -1,6 +1,8 @@
 import json
+from multiprocessing import freeze_support
 
 from flask import Flask, request, jsonify
+from icecream import icecream
 
 from core.json_encoder import object_to_json
 from core.text_matcher import match_phrases
@@ -21,10 +23,16 @@ def upload_script():
     data = request.json
     project_id = data['project_id']
     create_project_if_not_exists(project_id)
-    script_file = ScriptFile(script_id=data['script_id'], file_path=data['file_path'], phrases=data['phrases'])
-    print()
-    projects_storage[project_id].script_file = script_file
-    app.logger.info(f'Сценарий загружен ${script_file}')
+    if projects_storage[project_id].script_file is not None:
+        script_file = projects_storage[project_id].script_file
+        script_file.update(script_id=data['script_id'], file_path=data['file_path'], phrases=data['phrases'],
+                           actions=data['actions'])
+        app.logger.info(f'Сценарий обновлён ${script_file}')
+    else:
+        script_file = ScriptFile(script_id=data['script_id'], file_path=data['file_path'], phrases=data['phrases'],
+                                 actions=data['actions'])
+        projects_storage[project_id].script_file = script_file
+        app.logger.info(f'Сценарий загружен ${script_file}')
     return jsonify(
         {'message': 'Сценарий загружен'}), 200
 
@@ -54,4 +62,4 @@ def sync_files():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)

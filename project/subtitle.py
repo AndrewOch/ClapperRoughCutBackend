@@ -61,16 +61,17 @@ class Subtitle:
 
         combined_matches_dict = {}
         for sub in subtitles:
-            if sub.best_matches:
-                for match in sub.best_matches:
-                    if match.phrase.phrase_id in combined_matches_dict:
-                        existing = combined_matches_dict[match.phrase.phrase_id]
-                        combined_matches_dict[match.phrase.phrase_id] = MatchingResult(
-                            phrase=match.phrase,
-                            matching_count=existing.matching_count + match.matching_count
-                        )
-                    else:
-                        combined_matches_dict[match.phrase.phrase_id] = match
+            if not sub.best_matches:
+                continue
+            for match in sub.best_matches:
+                if match.phrase.phrase_id not in combined_matches_dict:
+                    combined_matches_dict[match.phrase.phrase_id] = match
+                    continue
+                existing = combined_matches_dict[match.phrase.phrase_id]
+                combined_matches_dict[match.phrase.phrase_id] = MatchingResult(
+                    phrase=match.phrase,
+                    matching_count=existing.matching_count + match.matching_count
+                )
 
         combined_matches = list(combined_matches_dict.values())
 
