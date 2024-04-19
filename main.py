@@ -5,7 +5,7 @@ from flask import Flask, request, jsonify
 from icecream import icecream
 
 from core.json_encoder import object_to_json
-from core.text_matcher import match_phrases
+from core.phrases_matcher import match_phrases
 from project.project import projects_storage, RoughCutProject
 from project.script_file import ScriptFile
 from project.subtitle import Subtitle
@@ -37,8 +37,8 @@ def upload_script():
         {'message': 'Сценарий загружен'}), 200
 
 
-@app.route('/matchScenes', methods=['POST'])
-def match_scenes():
+@app.route('/matchPhrases', methods=['POST'])
+def match_phrases_handler():
     data = request.json
     project_id = data['project_id']
     create_project_if_not_exists(project_id)
@@ -47,6 +47,21 @@ def match_scenes():
         if 'subtitles' in file:
             file['subtitles'] = [Subtitle.from_dict(subtitle) for subtitle in file['subtitles']]
     result = match_phrases(files, projects_storage[project_id].script_file.phrases)
+    converted_data = object_to_json(result)
+    json_string = json.dumps(converted_data, ensure_ascii=False, indent=4)
+    return json_string, 201
+
+
+@app.route('/matchActions', methods=['POST'])
+def match_actions_handler():
+    data = request.json
+    project_id = data['project_id']
+    create_project_if_not_exists(project_id)
+    files = data['files']
+    for file in files:
+        if 'subtitles' in file:
+            file['subtitles'] = [Subtitle.from_dict(subtitle) for subtitle in file['subtitles']]
+    result = match_actions(files, projects_storage[project_id].script_file.actions)
     converted_data = object_to_json(result)
     json_string = json.dumps(converted_data, ensure_ascii=False, indent=4)
     return json_string, 201

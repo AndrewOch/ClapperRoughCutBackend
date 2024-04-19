@@ -1,6 +1,7 @@
 import re
 import string
 
+import icecream
 from fonetika.soundex import RussianSoundex
 
 from project.subtitle import MatchingResult, Subtitle
@@ -109,6 +110,7 @@ def longest_matching_sequence_length(text, phrase_soundex):
 def match_phrases(files, phrases):
     result = []
     for file in files:
+        icecream.ic(file)
         result.append(match_phrase(file, phrases))
     return result
 

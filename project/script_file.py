@@ -15,9 +15,9 @@ class Phrase:
 
     def prepare(self):
         text = self.phrase_text.lower()
-        text = core.text_matcher.remove_enclosed_text(text)
-        words = core.text_matcher.remove_punctuation(text).split()
-        soundex_array = [core.text_matcher.soundex_transform(word) for word in words]
+        text = core.phrases_matcher.remove_enclosed_text(text)
+        words = core.phrases_matcher.remove_punctuation(text).split()
+        soundex_array = [core.phrases_matcher.soundex_transform(word) for word in words]
         return soundex_array, len(words)
 
     def to_json(self):
@@ -49,7 +49,7 @@ class ScriptFile:
     def __init__(self, script_id, file_path, phrases, actions):
         self.script_id = script_id
         self.url = file_path
-        self.phrases = phrases
+        self.phrases = [Phrase(**phrase) for phrase in phrases]
         start_time = time()
         self.actions = [Action(**action) for action in actions]
         end_time = time()
@@ -59,7 +59,7 @@ class ScriptFile:
     def update(self, script_id, file_path, phrases, actions):
         self.script_id = script_id
         self.url = file_path
-        self.phrases = phrases
+        self.phrases = [Phrase(**phrase) for phrase in phrases]
 
         existing_actions_dict = {action.action_id: action for action in self.actions}
 
@@ -83,7 +83,8 @@ class ScriptFile:
         self.display_classes_statistics()
 
     def display_classes_statistics(self):
-        # Статистика по классам, как раньше
+        if len(self.actions) == 0:
+            return
         all_classes = [cls for action in self.actions for cls in action.classes]
         classes_count = Counter(all_classes)
         df_classes = pd.DataFrame(classes_count.items(), columns=['Class', 'Frequency']).sort_values(by='Frequency', ascending=False).reset_index(drop=True)
@@ -93,7 +94,6 @@ class ScriptFile:
         df_classes.to_csv(classes_csv_filename, index=False)
         print(f"Classes statistics saved to {classes_csv_filename}")
 
-        # Статистика по словарю counts
         counts_data = []
         for action in self.actions:
             for (class_name, key), count in action.counts.items():
