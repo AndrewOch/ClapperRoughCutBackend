@@ -34,7 +34,7 @@ class Translator:
 
 
 class TranslatorPool:
-    def __init__(self, size, model_name='Helsinki-NLP/opus-mt-ru-en', model_dir='models/opus-mt-ru-en'):
+    def __init__(self, size, model_name='Helsinki-NLP/opus-mt-en-ru', model_dir='models/opus-mt-en-ru'):
         self.input_queue = Queue()
         self.output_queue = Queue()
         self.translators = [Translator(model_name, model_dir) for _ in range(size)]
@@ -78,4 +78,4 @@ class TranslatorPool:
         self.executor.shutdown(wait=True)
 
 
-translator_pool = TranslatorPool(4)
+translator_pool = TranslatorPool(1)

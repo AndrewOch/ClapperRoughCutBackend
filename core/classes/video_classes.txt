@@ -202,3 +202,4 @@ waterfall
 wind farm
 windmill
 zoo
+interior

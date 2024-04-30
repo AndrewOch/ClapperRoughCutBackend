@@ -124,3 +124,4 @@ windmill: windmill, windgenerator, aerogenerator
 zoo: zoologicalgarden, zoo, menagerie
 interior: interior, indoors, inside building, inside house, room
 nature: nature, environment, landscape, world, outdoors, scenery
+interior: interior, int

@@ -1,4 +1,4 @@
-person: mortal, person, soul, individual, someone, somebody
+person: mortal, person, soul, individual, someone, somebody, woman, man, girl, boy
 bicycle: wheel, cycle, pedal, bicycle
 car: railroad car, gondola, car, motorcar, railcar, auto, railway car, machine, elevator car, cable car, automobile
 motorcycle: motorbike, bike, motorcycle
