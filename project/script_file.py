@@ -54,7 +54,7 @@ class ScriptFile:
         self.actions = [Action(**action) for action in actions]
         end_time = time()
         print(f"Total processed in {end_time - start_time} seconds.")
-        self.display_classes_statistics()
+        # self.display_classes_statistics()
 
     def update(self, script_id, file_path, phrases, actions):
         self.script_id = script_id
@@ -80,7 +80,7 @@ class ScriptFile:
                 del existing_actions_dict[action_id]
 
         self.actions = list(existing_actions_dict.values())
-        self.display_classes_statistics()
+        # self.display_classes_statistics()
 
     def display_classes_statistics(self):
         if len(self.actions) == 0:
@@ -90,7 +90,7 @@ class ScriptFile:
         df_classes = pd.DataFrame(classes_count.items(), columns=['Class', 'Frequency']).sort_values(by='Frequency', ascending=False).reset_index(drop=True)
         print("Classes Frequency Statistics:")
         print(df_classes)
-        classes_csv_filename = f"{self.script_id}_class_statistics.csv"
+        classes_csv_filename = f"stats/{self.script_id}_class_statistics.csv"
         df_classes.to_csv(classes_csv_filename, index=False)
         print(f"Classes statistics saved to {classes_csv_filename}")
 
@@ -101,7 +101,7 @@ class ScriptFile:
         df_counts = pd.DataFrame(counts_data).groupby(['Class_Name', 'Key'], as_index=False).sum().sort_values(by='Count', ascending=False)
         print("Classes Synonyms Counts Statistics:")
         print(df_counts)
-        counts_csv_filename = f"{self.script_id}_counts_statistics.csv"
+        counts_csv_filename = f"stats/{self.script_id}_counts_statistics.csv"
         df_counts.to_csv(counts_csv_filename, index=False)
         print(f"Counts statistics saved to {counts_csv_filename}")
 
@@ -113,6 +113,6 @@ class ScriptFile:
                                                                                                             ascending=False)
         print("Unused Words Statistics:")
         print(df_unused_words)
-        unused_words_csv_filename = f"{self.script_id}_unused_words_statistics.csv"
+        unused_words_csv_filename = f"stats/{self.script_id}_unused_words_statistics.csv"
         df_unused_words.to_csv(unused_words_csv_filename, index=False)
         print(f"Unused words statistics saved to {unused_words_csv_filename}")

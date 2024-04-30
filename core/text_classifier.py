@@ -136,38 +136,39 @@ def _classify_from_dict(tokens, classes_dict):
 
 
 def classify_text(full_text):
-    start_time = time()
-    translated_text = translator_pool.translate_text(full_text)
-    tokens = process_text(translated_text)
-
-    classes = set()
-    classes_synonyms_counts = defaultdict(int)
-    all_used_words = set()
-
-    classification_functions = [
-        (classify_object, (tokens,)),
-        (classify_location, (tokens,)),
-        (classify_audio, (tokens,)),
-        (classify_action, (tokens,)),
-        (classify_daytime, (tokens, full_text)),
-    ]
-
-    for func, args in classification_functions:
-        result_classes, result_counts, result_used_words = func(*args)
-        classes.update(result_classes)
-        for key, count in result_counts.items():
-            classes_synonyms_counts[key] += count
-        all_used_words.update(result_used_words)
-
-    unused_words_counts = defaultdict(int)
-    used_words_list = list(all_used_words)
-    for token in tokens:
-        if token not in used_words_list:
-            unused_words_counts[token] += 1
-    icecream.ic(full_text, tokens, classes)
-    end_time = time()
-    print(f"Action processed in {end_time - start_time} seconds.")
-    return list(classes), classes_synonyms_counts, unused_words_counts
+    return [], 0, 0
+    # start_time = time()
+    # translated_text = translator_pool.translate_text(full_text)
+    # tokens = process_text(translated_text)
+    #
+    # classes = set()
+    # classes_synonyms_counts = defaultdict(int)
+    # all_used_words = set()
+    #
+    # classification_functions = [
+    #     (classify_object, (tokens,)),
+    #     (classify_location, (tokens,)),
+    #     (classify_audio, (tokens,)),
+    #     (classify_action, (tokens,)),
+    #     (classify_daytime, (tokens, full_text)),
+    # ]
+    #
+    # for func, args in classification_functions:
+    #     result_classes, result_counts, result_used_words = func(*args)
+    #     classes.update(result_classes)
+    #     for key, count in result_counts.items():
+    #         classes_synonyms_counts[key] += count
+    #     all_used_words.update(result_used_words)
+    #
+    # unused_words_counts = defaultdict(int)
+    # used_words_list = list(all_used_words)
+    # for token in tokens:
+    #     if token not in used_words_list:
+    #         unused_words_counts[token] += 1
+    # icecream.ic(full_text, tokens, classes)
+    # end_time = time()
+    # print(f"Action processed in {end_time - start_time} seconds.")
+    # return list(classes), classes_synonyms_counts, unused_words_counts
 
 
 def get_wordnet_pos(tag):

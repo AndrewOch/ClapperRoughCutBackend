@@ -1,7 +1,6 @@
 import re
 import string
 
-import icecream
 from fonetika.soundex import RussianSoundex
 
 from project.subtitle import MatchingResult, Subtitle
@@ -34,140 +33,98 @@ def remove_enclosed_text(text: str) -> str:
     return result.strip()
 
 
-def matching_sequence_lengths(text1, text2):
-    words1 = remove_punctuation(text1).split()
-    words2 = remove_punctuation(text2).split()
-    sequences = []
-    current_sequence_length = 0
-    last_index = 0
-    for word1 in words1:
-        i = last_index
-        for word2 in words2[last_index:]:
-            i += 1
-            soundex1 = soundex_transform(word1)
-            soundex2 = soundex_transform(word2)
-            if soundex1 == soundex2:
-                if current_sequence_length > 0:
-                    last_index = i
-                    current_sequence_length += 1
-                    break
-                else:
-                    if len(soundex1) > 7:
-                        last_index = i
-                        current_sequence_length += 1
-                        break
-            else:
-                if current_sequence_length > 1:
-                    sequences.append(current_sequence_length)
-                current_sequence_length = 0
-    if current_sequence_length > 1:
-        sequences.append(current_sequence_length)
-    return sequences
-
-
-def longest_matching_sequence_length1(text1, text2):
-    words1 = remove_punctuation(text1).split()
-    words2 = remove_punctuation(text2).split()
-    max_sequence_length = 0
-    current_sequence_length = 0
-    last_index = 0
-    for word1 in words1:
-        for i, word2 in enumerate(words2[last_index:]):
-            soundex1 = soundex_transform(word1)
-            soundex2 = soundex_transform(word2)
-            if soundex1 == soundex2:
-                current_sequence_length += 1
-                last_index += i + 1
-                break
-            else:
-                max_sequence_length = max(max_sequence_length, current_sequence_length)
-                current_sequence_length = 0
-
-    max_sequence_length = max(max_sequence_length, current_sequence_length)
-    return max_sequence_length
-
-
-def longest_matching_sequence_length(text, phrase_soundex):
-    words = remove_punctuation(text).split()
-    max_sequence_length = 0
-    current_sequence_length = 0
-    last_index = 0
-    for word in words:
-        for i, soundex2 in enumerate(phrase_soundex[last_index:]):
-            soundex1 = soundex_transform(word)
-            if soundex1 == soundex2:
-                current_sequence_length += 1
-                last_index += i + 1
-                break
-            else:
-                max_sequence_length = max(max_sequence_length, current_sequence_length)
-                current_sequence_length = 0
-
-    max_sequence_length = max(max_sequence_length, current_sequence_length)
-    return max_sequence_length
-
-
 def match_phrases(files, phrases):
-    result = []
+    results = []
     for file in files:
-        icecream.ic(file)
-        result.append(match_phrase(file, phrases))
-    return result
+        best_phrase, segments_data, best_cross_length = _match_phrase(file['subtitles'], phrases)
+        if best_phrase:
+            new_subtitles = _create_new_subtitles(file['subtitles'], segments_data, best_phrase)
+            match_phrase_file_response = {
+                "subtitles": new_subtitles,
+                "id": file['id']
+            }
+            match_phrase_response = {
+                "file": match_phrase_file_response,
+                "best_match": {
+                    "phrase_id": str(best_phrase.phrase_id),
+                    "accuracy": best_cross_length / len(best_phrase.prepared_soundex)
+                }
+            }
+            results.append(match_phrase_response)
+    return results
 
 
-def match_phrase(file, phrases):
-    res = {}
-    for subtitle in file['subtitles']:
-        results = []
-        for phrase in phrases:
-            length = longest_matching_sequence_length(subtitle.text, phrase.prepared_soundex)
-            if length == 0:
-                continue
-            results.append(MatchingResult(phrase=phrase, matching_count=length))
-        res[subtitle] = results
-    combinations = Subtitle.generate_matched_combinations(res)
-    best_match = get_best_combination(combinations, phrases)
-    if best_match is None:
-        return {}
-    file['subtitles'] = best_match[0]
-    return {'file': file, 'best_match': best_match[1]}
-
-
-def get_best_combination(combinations, phrases):
-    best_accuracy = 0
-    best_combination = []
+def _match_phrase(subtitles, phrases):
+    sub_soundex = [soundex_transform(remove_punctuation(remove_enclosed_text(sub.text))) for sub in subtitles]
     best_phrase = None
+    best_segments = []
+    best_cross_length = 0
 
-    for combination in combinations:
-        accuracies = [
-            subtitle.best_matches[0].match_accuracy
-            for subtitle in combination
-            if subtitle.best_matches is not None and subtitle.best_matches[0] is not None and subtitle.best_matches[
-                0].match_accuracy is not None
-        ]
-        if accuracies:
-            max_accuracy = max(accuracies)
-            if max_accuracy > best_accuracy:
-                best_accuracy = max_accuracy
-                best_combination = combination
-                index = accuracies.index(max_accuracy)
-                if combination[index].best_matches[0] is None:
+    for phrase in phrases:
+        matches = []
+        start_idx = 0
+        phrase_end = -1
+        matched_segment_end = -1
+        max_cross_length = 0
+        cross_length = 0
+        while start_idx < len(sub_soundex):
+            segment_length, new_start, is_matching, phrase_start = _check_match(sub_soundex, phrase.prepared_soundex,
+                                                                                start_idx)
+            length = segment_length if is_matching else 0
+            if segment_length > 0:
+                end_idx = start_idx + segment_length - 1
+                matches.append((start_idx, end_idx, length))
+                next_matched_segment_start = start_idx
+                start_idx = new_start
+                if not is_matching:
                     continue
-                best_phrase = combination[index].best_matches[0].phrase
-                best_phrase = next((phrase for phrase in phrases if phrase.phrase_id == best_phrase.phrase_id), None)
+                if phrase_start > phrase_end and (phrase_end < 0 or abs(
+                        (phrase_start - phrase_end - 1) - (next_matched_segment_start - matched_segment_end)) < 2):
+                    cross_length += length
+                elif max_cross_length < cross_length:
+                    max_cross_length = cross_length
+                    cross_length = 0
+                phrase_end = phrase_start + length - 1
+                matched_segment_end = end_idx
+        if len(matches) > 0 and max_cross_length > best_cross_length:
+            best_cross_length = max_cross_length
+            best_phrase = phrase
+            best_segments = matches
 
-    if not best_phrase or not best_phrase.phrase_text:
-        return None
+    return best_phrase, best_segments, best_cross_length
 
-    cleaned_phrase_text = remove_enclosed_text(best_phrase.phrase_text).strip()
-    if not cleaned_phrase_text or cleaned_phrase_text.isspace():
-        return None
 
-    for subtitle in best_combination:
-        length = longest_matching_sequence_length(subtitle.text.lower(), cleaned_phrase_text.lower())
-        matching_result = MatchingResult(phrase=best_phrase, matching_count=length)
-        subtitle.best_matches.append(matching_result)
-        subtitle.phrase_id = best_phrase.phrase_id
-        subtitle.match_accuracy = matching_result.match_accuracy
+def _check_match(sub_soundex, phrase_soundex, start_idx):
+    idx = start_idx
+    start = -1
+    if sub_soundex[idx] in phrase_soundex:
+        is_matching = True
+        start = phrase_soundex.index(sub_soundex[idx])
+        length = 1
+        while (start + length < len(phrase_soundex) and idx + length < len(sub_soundex) and
+               sub_soundex[idx + length] == phrase_soundex[start + length]):
+            length += 1
+        new_start = idx + length
+    else:
+        is_matching = False
+        length = 1
+        while idx + length < len(sub_soundex) and sub_soundex[idx + length] not in phrase_soundex:
+            length += 1
+        new_start = idx + length
 
-    return best_combination, best_phrase
+    return length, new_start, is_matching, start
+
+
+def _create_new_subtitles(subtitles, matches, phrase):
+    new_subtitles = []
+    for start, end, length in matches:
+        combined_text = ' '.join(sub.text.strip() for sub in subtitles[start:end + 1])
+        combined_start_time = subtitles[start].start_time
+        combined_end_time = subtitles[end].end_time
+        new_subtitles.append(Subtitle(text=combined_text,
+                                      start_time=combined_start_time,
+                                      end_time=combined_end_time,
+                                      phrase_id=phrase.phrase_id,
+                                      match_accuracy=length / len(phrase.prepared_soundex),
+                                      best_matches=[MatchingResult(phrase=phrase, matching_count=length)]))
+    return new_subtitles
