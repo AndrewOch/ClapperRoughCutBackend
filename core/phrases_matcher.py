@@ -24,6 +24,11 @@ def remove_punctuation(txt):
     return no_punct
 
 
+def has_russian_letters(text):
+    pattern = r'[а-яА-ЯёЁ]'
+    return re.search(pattern, text) is not None
+
+
 def remove_enclosed_text(text: str) -> str:
     result = text
     result = re.sub(r"\[.*?\]", "", result)
@@ -55,7 +60,10 @@ def match_phrases(files, phrases):
 
 
 def _match_phrase(subtitles, phrases):
-    sub_soundex = [soundex_transform(remove_punctuation(remove_enclosed_text(sub.text))) for sub in subtitles]
+    sub_soundex = [soundex_transform(processed_text)
+                   for sub in subtitles
+                   if (processed_text := remove_punctuation(remove_enclosed_text(sub.text))) and
+                   has_russian_letters(processed_text)]
     best_phrase = None
     best_segments = []
     best_cross_length = 0
