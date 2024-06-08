@@ -1,400 +1,400 @@
-abseiling: rappel, abseil, ropedown
-air drumming: air drum
-answering questions: answer question
-applauding: applaud, clap, acclaim, spat
-applying cream: apply cream
-archery: archery
-arm wrestling: arm wrestling
-arranging flowers: arrange flower
-assembling computer: assemble computer
-auctioning: auctionoff, auctioneer, auction
-baby waking up: baby wake
-baking cookies: bake cooky
-balloon blowing: balloon blowing
-bandaging: binding, bind, bandage, bandaging, dress
-barbequing: barbeque, cookout, barbecue, barbequing
-bartending: bartending
-beatboxing: beatboxing
-bee keeping: bee keep
-belly dancing: belly dance
-bench pressing: bench press
-bending back: bend back
-bending metal: bend metal
-biking through snow: biking snow
-blasting sand: blasting sand
-blowing glass: blow glass
-blowing leaves: blow leaf
-blowing nose: blow nose
-blowing out candles: blowing candle
-bobsledding: bobsledding
-bookbinding: bookbinding
-bouncing on trampoline: bounce trampoline
-bowling: bowl, bowling
-braiding hair: braid hair
-breading or breadcrumbing: bread breadcrumbing
-breakdancing: breakdancing
-brush painting: brush painting
-brushing hair: brush hair
-brushing teeth: brush teeth
-building cabinet: building cabinet
-building shed: building shed
-bungee jumping: bungee jumping
-busking: busking, busk
-canoeing or kayaking: canoe kayak
-capoeira: capoeira
-carrying baby: carry baby
-cartwheeling: cartwheel
-carving pumpkin: carve pumpkin
-catching fish: catch fish
-catching or throwing baseball: catch throw baseball
-catching or throwing frisbee: catch throw frisbee
-catching or throwing softball: catch throw softball
-celebrating: celebrate, lionize, fete, observe, lionise, keep
-changing oil: change oil
-changing wheel: change wheel
-checking tires: checking tire
-cheerleading: cheerlead
-chopping wood: chop wood
-clapping: applaud, spat, applause, handclapping, clap, acclaim
-clay pottery making: clay pottery making
-clean and jerk: clean jerk
-cleaning floor: cleaning floor
-cleaning gutters: clean gutter
-cleaning pool: clean pool
-cleaning shoes: cleaning shoe
-cleaning toilet: clean toilet
-cleaning windows: cleaning window
-climbing a rope: climb rope
-climbing ladder: climb ladder
-climbing tree: climb tree
-contact juggling: contact juggling
-cooking chicken: cook chicken
-cooking egg: cook egg
-cooking on campfire: cooking campfire
-cooking sausages: cooking sausage
-counting money: count money
-country line dancing: country line dance
-cracking neck: crack neck
-crawling baby: crawl baby
-crossing river: cross river
-crying: scream, outcry, battlecry, rallyingcry, clamant, exigent, rank, gross, exclaim, egregious, shoutout, hollo, squall, weep, yell, tear, warcry, holler, blazonout, shout, instant, flagrant, callout, cry, watchword, cryout, glare, insistent, vociferation
-curling hair: curl hair
-cutting nails: cut nail
-cutting pineapple: cut pineapple
-cutting watermelon: cut watermelon
-dancing ballet: dance ballet
-dancing charleston: dance charleston
-dancing gangnam style: dance gangnam style
-dancing macarena: dance macarena
-deadlifting: deadlifting
-decorating the christmas tree: decorate christmas tree
-digging: apprehend, grind, poke, jab, dig, excavate, grasp, compass, hollow, savvy, travail, labour, moil, fag, drudge, digout, cutinto, labor, prod, grok, excavation, delve, turnover, toil, comprehend, digup, stab
-dining: dine, din, boom
-disc golfing: disc golfing
-diving cliff: dive cliff
-dodgeball: dodgeball
-doing aerobics: aerobics
-doing laundry: laundry
-doing nails: nail
-drawing: draw, absorb, tie, draught, puff, withdraw, line, soak up, delineate, depict
-dribbling basketball: dribble basketball
-drinking: drinking, crapulence, salute, imbibition, drunkenness, fuddle, imbibe, drink, drinkin, wassail, pledge, tope, toast, booze
-drinking beer: drink beer
-drinking shots: drink shot
-driving car: driving car
-driving tractor: drive tractor
-drop kicking: drop kicking
-drumming fingers: drum finger
-dunking basketball: dunk basketball
-dying hair: die hair
-eating burger: eat burger
-eating cake: eat cake
-eating carrots: eat carrot
-eating chips: eat chip
-eating doughnuts: eat doughnut
-eating hotdog: eat hotdog
-eating ice cream: eat ice cream
-eating spaghetti: eat spaghetti
-eating watermelon: eat watermelon
-egg hunting: egg hunt
-exercising arm: exercise arm
-exercising with an exercise ball: exercise exercise ball
-extinguishing fire: extinguish fire
-faceplanting: faceplanting
-feeding birds: feeding bird
-feeding fish: feed fish
-feeding goats: feed goat
-filling eyebrows: filling eyebrow
-finger snapping: finger snap
-fixing hair: fix hair
-flipping pancake: flip pancake
-flying kite: fly kite
-folding clothes: folding clothes
-folding napkins: folding napkin
-folding paper: fold paper
-front raises: front raise
-frying vegetables: frying vegetable
-garbage collecting: garbage collect
-gargling: gargle, rinse
-getting a haircut: get haircut
-getting a tattoo: get tattoo
-giving or receiving award: give receive award
-golf chipping: golf chip
-golf driving: golf drive
-golf putting: golf put
-grinding meat: grind meat
-grooming dog: groom dog
-grooming horse: groom horse
-gymnastics tumbling: gymnastics tumble
-hammer throw: hammer throw
-headbanging: headbanging
-headbutting: headbutt
-high jump: high jump
-high kick: high kick
-hitting baseball: hit baseball
-hockey stop: hockey stop
-holding snake: hold snake
-hopscotch: hopscotch
-hoverboarding: hoverboarding
-hugging: neck, caress, cuddle, bosom, squeeze, hug, pet, fondle, smooch, embrace, snuggle
-hula hooping: hula hooping
-hurdling: hurdlerace, hurdle
-hurling (sport): hurl sport
-ice climbing: ice climb
-ice fishing: ice fishing
-ice skating: ice skate
-ironing: ironout, iron, press
-javelin throw: javelin throw
-jetskiing: jetskiing
-jogging: ramble, trot, clip, rambleon, evenup, jogging, jog, squareup
-juggling balls: juggling ball
-juggling fire: juggling fire
-juggling soccer ball: juggle soccer ball
-jumping into pool: jump pool
-jumpstyle dancing: jumpstyle dance
-kicking field goal: kick field goal
-kicking soccer ball: kick soccer ball
-kissing: neck, caress, cuddle, bus, snog, smooch, osculate, snuggle, kiss
-kitesurfing: kitesurfing
-knitting: pucker, crumple, knit, entwine, knitwork, rumple, cockle
-krumping: krumping
-laughing: laugh, expressjoy, riant, expressmirth
-laying bricks: lay brick
-long jump: long jump
-lunge: hurl, thrust, hurtle, lunge, straightthrust, passado, lurch
-making a cake: make cake
-making a sandwich: make sandwich
-making bed: make bed
-making jewelry: make jewelry
-making pizza: make pizza
-making snowman: make snowman
-making sushi: make sushi
-making tea: make tea
-marching: abut, demonstrate, exhibit, border, butt, march, button, parade, adjoin, buttagainst, edge, process
-massaging back: massage back
-massaging feet: massage foot
-massaging legs: massage leg
-massaging person's head: massage person head
-milking cow: milk cow
-mopping floor: mop floor
-motorcycling: motorbike, cycle, motorcycle
-moving furniture: move furniture
-mowing lawn: mow lawn
-news anchoring: news anchor
-opening bottle: open bottle
-opening present: open present
-paragliding: paragliding
-parasailing: parasailing
-parkour: parkour
-passing American football (in game): pass american football game
-passing American football (not in game): pass american football not game
-peeling apples: peel apple
-peeling potatoes: peeling potato
-petting animal (not cat): pet animal cat
-petting cat: pet cat
-picking fruit: pick fruit
-planting trees: plant tree
-plastering: poultice, plaster, plasterover, stickon, daub, beplaster
-playing accordion: play accordion
-playing badminton: play badminton
-playing bagpipes: play bagpipe
-playing basketball: play basketball
-playing bass guitar: play bass guitar
-playing cards: playing card
-playing cello: play cello
-playing chess: play chess
-playing clarinet: play clarinet
-playing controller: play controller
-playing cricket: play cricket
-playing cymbals: playing cymbal
-playing didgeridoo: play didgeridoo
-playing drums: play drum
-playing flute: play flute
-playing guitar: play guitar
-playing harmonica: playing harmonica
-playing harp: play harp
-playing ice hockey: play ice hockey
-playing keyboard: play keyboard
-playing kickball: play kickball
-playing monopoly: play monopoly
-playing organ: play organ
-playing paintball: play paintball
-playing piano: play piano
-playing poker: play poker
-playing recorder: play recorder
-playing saxophone: play saxophone
-playing squash or racquetball: play squash racquetball
-playing tennis: play tennis
-playing trombone: play trombone
-playing trumpet: play trumpet
-playing ukulele: play ukulele
-playing violin: play violin
-playing volleyball: play volleyball
-playing xylophone: play xylophone
-pole vault: pole vault
-presenting weather forecast: present weather forecast
-pull ups: pull ups
-pumping fist: pump fist
-pumping gas: pump gas
-punching bag: punch bag
-punching person (boxing): punch person box
-push up: push
-pushing car: push car
-pushing cart: push cart
-pushing wheelchair: push wheelchair
-reading book: read, look book
-reading newspaper: read newspaper
-recording music: record music
-riding a bike: rid bike
-riding camel: rid camel
-riding elephant: rid elephant
-riding mechanical bull: rid mechanical bull
-riding mountain bike: rid mountain bike
-riding mule: rid mule
-riding or walking with horse: rid walk horse
-riding scooter: rid scooter
-riding unicycle: rid unicycle
-ripping paper: rip paper
-robot dancing: robot dance
-rock climbing: rock climb
-rock scissors paper: rock scissors paper
-roller skating: roller skating
-running on treadmill: run treadmill
-sailing: soar, seafaring, navigation, sweep, voyage, sailplane, sail, glide, navigate
-salsa dancing: salsa dance
-sanding floor: sand floor
-scrambling eggs: scramble egg
-scuba diving: scuba dive
-setting table: set table
-shaking hands: shake hand
-shaking head: shake head
-sharpening knives: sharpen knife
-sharpening pencil: sharpen pencil
-shaving head: shave head
-shaving legs: shave leg
-shearing sheep: shear sheep
-shining shoes: shining shoe
-shooting basketball: shoot basketball
-shooting goal (soccer): shoot goal soccer
-shot put: shot put
-shoveling snow: shovel snow
-shredding paper: shred paper
-shuffling cards: shuffling card
-side kick: side kick
-sign language interpreting: sign language interpret
-singing: talk, swinge, tattle, tell, babble, blab out, scorch, cantabile, babble out, blab, singe, sear, spill beans, vocalize, sing, peach, let cat bag
-situp: situp
-skateboarding: skateboard
-ski jumping: ski jump
-skiing (not slalom or crosscountry): ski slalom crosscountry
-skiing crosscountry: ski crosscountry
-skiing slalom: ski slalom
-skipping rope: skip rope
-skydiving: skydive
-slacklining: slacklining
-slapping: slap
-sled dog racing: sled dog race
-smoking: fume, smoking, smoke
-smoking hookah: smoking hookah
-snatch weight lifting: snatch weight lift
-sneezing: sternutation, sneeze
-sniffing: whiff, sniff, sniffle
-snorkeling: snorkeldiving, snorkel
-snowboarding: snowboard
-snowkiting: snowkiting
-snowmobiling: snowmobile
-somersaulting: summersault, somerset, somersault, summerset, flip
-spinning poi: spin poi
-spray painting: spray painting
-spraying: cropdusting, spray
-springboard diving: springboard diving
-squat: crouch, hunkerdown, squatty, underslung, jack, kneebend, diddlyshit, diddley, diddlysquat, stumpy, squat, dumpy, lowset, hunker, chunky, scrunchup, doodlysquat, diddly, scrunch, shit
-sticking tongue out: stick tongue
-stomping grapes: stomp grape
-stretching arm: stretch arm
-stretching leg: stretch leg
-strumming guitar: strum guitar
-surfing crowd: surf crowd
-surfing water: surf water
-sweeping floor: sweeping floor
-swimming backstroke: swim backstroke
-swimming breast stroke: swim breast stroke
-swimming butterfly stroke: swim butterfly stroke
-swing dancing: swing dance
-swinging legs: swing leg
-swinging on something: swing something
-sword fighting: sword fighting
-tai chi: tai chi
-taking a shower: take shower
-tango dancing: tango dance
-tap dancing: tap dance
-tapping guitar: tap guitar
-tapping pen: tap pen
-tasting beer: taste beer
-tasting food: taste food
-testifying: take stand, bearwitness, show, testify, evidence, prove, attest
-texting: texting
-throwing axe: throw axe
-throwing ball: throw ball
-throwing discus: throw discus
-tickling: vibrate, titillation, tickle, thrill, titillate, vellicate, tingle
-tobogganing: toboggan, luge
-tossing coin: toss coin
-tossing salad: toss salad
-training dog: training dog
-trapezing: trapezing
-trimming or shaving beard: trim shave beard
-trimming trees: trim tree
-triple jump: triple jump
-tying bow tie: tie bow tie
-tying knot (not on a tie): tie knot tie
-tying tie: tie tie
-unboxing: unbox
-unloading truck: unload truck
-using computer: use computer
-using remote controller (not gaming): use remote controller gaming
-using segway: use segway
-vault: bankvault, vault, overleap, burialvault
-waiting in line: wait line
-walking the dog: walk dog
-washing dishes: wash dish
-washing feet: wash foot
-washing hair: wash hair
-washing hands: wash hand
-water skiing: water skiing
-water sliding: water slide
-watering plants: watering plant
-waxing back: wax back
-waxing chest: wax chest
-waxing eyebrows: wax eyebrow
-waxing legs: wax leg
-weaving basket: weave basket
-welding: weld
-whistling: sing, whistle
-windsurfing: windsurf
-wrapping present: wrap present
-wrestling: wrestle, twist, wriggle, worm, wrestling, writhe, squirm, rassling, handtohandstruggle, grapple
-writing: writtenmaterial, indite, authorship, dropaline, piece writing, save, spell, compose, pen, committaltowriting, composition, write, publish
-yawning: yawn, yaw, drowsy, gape, oscitant, oscitancy, oscitance
-yoga: yoga
-zumba: zumba
+abseiling: спуск на веревка, дюльфер, альпинистский спуск
+air drumming: игра на невидимых барабан, воображаемая барабанная игра
+answering questions: ответ на вопрос, ответ
+applauding: аплодисменты, хлопок, рукоплескание
+applying cream: нанесение крем, втирание крем
+archery: стрельба из лук, лучная стрельба
+arm wrestling: армрестлинг, борьба на рук
+arranging flowers: составление цветочных композиция, флористика
+assembling computer: сборка компьютер, установка компьютер
+auctioning: аукцион, торг
+baby waking up: пробуждение ребёнка, вставание малыш
+baking cookies: выпечка печение, приготовление печение
+balloon blowing: надувание шарик, надувание воздушных шар
+bandaging: перевязка, бинтование
+barbequing: барбекю, приготовление на грил
+bartending: барменство, работа бармена
+beatboxing: битбоксинг, вокальная перкуссия
+bee keeping: пчеловодство, разведение пчесть
+belly dancing: танец живот, восточные танец
+bench pressing: жим лёжа, силовая тренировка
+bending back: прогиб назад, изгибание
+bending metal: гибка металл, формовка
+biking through snow: езда на велосипеде по снег, зимний велоспорт
+blasting sand: пескоструйная обработка, пескоструя
+blowing glass: выдувание стечь, стеклодувное деть
+blowing leaves: сдувание листьевый, уборка листьевый
+blowing nose: сморкание, очищение нос
+blowing out candles: задувание свеча, тушение огнить
+bobsledding: бобслей, санный спорт
+bookbinding: переплет книга, книжное переплетение
+bouncing on trampoline: прыжки на батут, батутные прыжка
+bowling: боулинг, кегельбан
+braiding hair: плетение кос, заплетание волосый
+breading or breadcrumbing: панировка, обваливание в сухарь
+breakdancing: брейкданс, уличные танец
+brush painting: рисование кисть, живопись
+brushing hair: расчесывание волосый, причёсывание
+brushing teeth: чистка зуб, уход за зуб
+building cabinet: сборка шкаф, установка мебель
+building shed: строительство сарай, возведение постройка
+bungee jumping: прыжки с банджа, экстремальные прыжка
+busking: уличные выступление, игра на улица
+canoeing or kayaking: гребля на каноэ или каяк, водный спорт
+capoeira: капоэйр, бразильское боевое искусство
+carrying baby: ношение ребёнка, переноска малыш
+cartwheeling: колесо, акробатический элемент
+carving pumpkin: резьба по тыква, вырезание тыква
+catching fish: ловля рыба, рыбалка
+catching or throwing baseball: ловля или бросание бейсбольного мяч, бейсбол
+catching or throwing frisbee: ловля или бросание фрисби, фрисби
+catching or throwing softball: ловля или бросание софтбольного мяч, софтбол
+celebrating: празднование, торжество
+changing oil: замена масло, техобслуживание
+changing wheel: замена колесо, шиномонтаж
+checking tires: проверка шин, осмотр
+cheerleading: чирлидинг, поддержка команда
+chopping wood: рубка др, колка
+clapping: аплодисменты, хлопок
+clay pottery making: изготовление глиняной посуд, гончарное деть
+clean and jerk: рывок и толчок, тяжелоатлетическое упражнение
+cleaning floor: уборка полый, мытье полоть
+cleaning gutters: чистка желобов, очистка водосток
+cleaning pool: чистка бассейн, обслуживание
+cleaning shoes: чистка обувь, уход за обувь
+cleaning toilet: чистка туалет, уборка
+cleaning windows: мытье окно, очистка стекло
+climbing a rope: лазание по веревка, восхождение
+climbing ladder: подъем по лестница, лазание
+climbing tree: лазание по дерево, карабканье
+contact juggling: контактное жонглирование, манипуляции с предмет
+cooking chicken: приготовление курица, кулинария
+cooking egg: приготовление яица, кулинария
+cooking on campfire: готовка на костра, кемпинг
+cooking sausages: приготовление сосиска, жарка
+counting money: пересчет деньга, учёт
+country line dancing: кантри-танец, линейные танец
+cracking neck: хруст шея, разминка
+crawling baby: ползание малыш, младенческое движение
+crossing river: пересечение рек, переход
+crying: плач, слеза
+curling hair: завивка волосый, укладка
+cutting nails: стрижка ноготь, уход за ноготь
+cutting pineapple: резка ананас, кулинария
+cutting watermelon: резка арбуз, кулинария
+dancing ballet: танцы балет, балет
+dancing charleston: танец чарльстон, ретро-танец
+dancing gangnam style: танец в стиле "gangnam style", современный танец
+dancing macarena: танец макарить, популярный танец
+deadlifting: становая тяг, силовая тренировка
+decorating the christmas tree: украшение елка, подготовка к праздник
+digging: копка, рытьё
+dining: обед, прием пища
+disc golfing: дискогольф, игра с диск
+diving cliff: прыжки со скал, экстремальный спорт
+dodgeball: вышибала, игра в мяч
+doing aerobics: занятие аэробика, фитнес
+doing laundry: стирка, уход за белие
+doing nails: маникюр, уход за ноготь
+drawing: рисование, черчение
+dribbling basketball: ведение баскетбольного мяч, баскетбол
+drinking: питие, употребление жидкость
+drinking beer: питье пиво, дегустация
+drinking shots: питье шот, алкоголь
+driving car: вождение автомобиль, управление
+driving tractor: вождение трактор, сельскохозяйственная техника
+drop kicking: удар с лет, футбольный приём
+drumming fingers: барабанить палец, стучать
+dunking basketball: забивание в баскетбол, бросок
+dying hair: окрашивание волосый, уход за волос
+eating burger: поедание бургер, еда
+eating cake: поедание торт, десерт
+eating carrots: поедание морковь, овощ
+eating chips: поедание чипс, закуска
+eating doughnuts: поедание пончик, сладость
+eating hotdog: поедание хот-дог, фастфуд
+eating ice cream: поедание морожёный, десерт
+eating spaghetti: поедание спагетти, итальянская кухня
+eating watermelon: поедание арбуз, фрукт
+egg hunting: поиск яица, пасхальные игра
+exercising arm: упражнения для рук, тренировка
+exercising with an exercise ball: упражнения с мяч, фитнес
+extinguishing fire: тушение пожар, пожаротушение
+faceplanting: падение лицом вниз, неудача
+feeding birds: кормление птица, уход за птица
+feeding fish: кормление рыба, аквариумистик
+feeding goats: кормление коз, уход за животный
+filling eyebrows: оформление бровый, макияж
+finger snapping: щелканье палец, щелчок
+fixing hair: укладка волосый, причёсывание
+flipping pancake: переворачивание блин, кулинария
+flying kite: запуск воздушного змея, детская игра
+folding clothes: складывание одежда, уборка
+folding napkins: складывание салфетка, сервировка
+folding paper: оригами, складывание бумага
+front raises: подъемы вперёд, силовая тренировка
+frying vegetables: жарка овощ, кулинария
+garbage collecting: сбор мусор, уборка
+gargling: полоскание, бульканье
+getting a haircut: стрижка волосый, уход за волос
+getting a tattoo: получение татуировка, татуирование
+giving or receiving award: вручение или получение наград, церемония
+golf chipping: игра в гольф, короткий удар
+golf driving: игра в гольф, дальний удар
+golf putting: игра в гольф, паттинг
+grinding meat: измельчение мясо, кулинария
+grooming dog: уход за собака, груминг
+grooming horse: уход за лошадь, чистка
+gymnastics tumbling: гимнастические кувырка, акробатика
+hammer throw: метание молотый, легкая атлетик
+headbanging: хедбэнгинг, энергичное качание голов
+headbutting: удар голов, бодание
+high jump: прыжок в высота, легкая атлетик
+high kick: высокий удар ногий, боевые искусство
+hitting baseball: удар по бейсбольному мяч, бейсбол
+hockey stop: остановка в хоккей, хоккейный приём
+holding snake: удерживание змея, экзотика
+hopscotch: классика, детская игра
+hoverboarding: катание на ховерборд, транспорт
+hugging: объятие, обнимание
+hula hooping: кручение обруч, фитнес
+hurdling: бег с барьер, легкая атлетик
+hurling (sport): ирландский хоккей, спортивная игра
+ice climbing: ледолазание, альпинизм
+ice fishing: подледная рыбалка, зимняя рыбалка
+ice skating: катание на конька, фигурное катание
+ironing: глажка, утюжка
+javelin throw: метание копьё, легкая атлетик
+jetskiing: катание на водном мотоцикл, водные виды спорт
+jogging: бег трусца, пробежка
+juggling balls: жонглирование мяч, цирковое искусство
+juggling fire: жонглирование огнуть, фаера-шоу
+juggling soccer ball: жонглирование футбольным мяч, футбольное мастерство
+jumping into pool: прыжки в бассейн, водные виды спорт
+jumpstyle dancing: танцы в стиле джампстайл, современный танец
+kicking field goal: удар по ворот, футбольный приём
+kicking soccer ball: удар по футбольному мяч, футбол
+kissing: поцелуй, лобзание
+kitesurfing: кайтсёрфинг, водный спорт
+knitting: вязание, рукоделие
+krumping: крампинг, уличный танец
+laughing: смех, хохот
+laying bricks: кладка кирпич, строительство
+long jump: прыжок в длин, легкая атлетик
+lunge: выпад, упражнение
+making a cake: приготовление торт, выпечка
+making a sandwich: приготовление бутерброд, кулинария
+making bed: заправка постель, уборка
+making jewelry: изготовление украшение, ювелирное деть
+making pizza: приготовление пицца, выпечка
+making snowman: лепка снеговик, зимняя забава
+making sushi: приготовление сушить, кулинария
+making tea: приготовление чать, заваривание
+marching: маршировка, парад
+massaging back: массаж спин, физиотерапия
+massaging feet: массаж ногий, уход за ног
+massaging legs: массаж ногий, физиотерапия
+massaging person's head: массаж головый, расслабление
+milking cow: доение корова, фермерство
+mopping floor: мытье полый, уборка
+motorcycling: езда на мотоцикл, мотоспорт
+moving furniture: перестановка мебель, переезд
+mowing lawn: стрижка газон, уход за газон
+news anchoring: ведение новость, телеведущий
+opening bottle: открытие бутылок, барменство
+opening present: открытие подарка, праздник
+paragliding: парапланеризм, воздушный спорт
+parasailing: парасейлинга, водный спорт
+parkour: паркур, преодоление препятствие
+passing American football (in game): передача американского футбольного мяча (в игре), футбол
+passing American football (not in game): передача американского футбольного мяча (вне игры), футбол
+peeling apples: чистка яблок, кулинария
+peeling potatoes: чистка картофель, приготовление пища
+petting animal (not cat): ласкание животного (не кота), уход за животный
+petting cat: ласкание кот, уход за кот
+picking fruit: сбор фрукт, садоводство
+planting trees: посадка дерево, садоводство
+plastering: штукатурка, отделочные работа
+playing accordion: игра на аккордеон, музыкальное искусство
+playing badminton: игра в бадминтон, спорт
+playing bagpipes: игра на волынка, музыкальное искусство
+playing basketball: игра в баскетбол, спорт
+playing bass guitar: игра на бас-гитара, музыкальное искусство
+playing cards: игра в карта, карточные игра
+playing cello: игра на виолончель, музыкальное искусство
+playing chess: игра в шахмат, интеллектуальная игра
+playing clarinet: игра на кларнуть, музыкальное искусство
+playing controller: игра на контроллер, видеоигра
+playing cricket: игра в крикет, спорт
+playing cymbals: игра на тарелка, ударные инструмент
+playing didgeridoo: игра на диджерид, музыкальное искусство
+playing drums: игра на барабан, ударные инструмент
+playing flute: игра на флеть, музыкальное искусство
+playing guitar: игра на гитара, струнные инструмент
+playing harmonica: игра на губной гармошка, музыкальное искусство
+playing harp: игра на арф, струнные инструмент
+playing ice hockey: игра в хоккей, спорт
+playing keyboard: игра на клавишный, музыкальные инструмент
+playing kickball: игра в кикбол, спорт
+playing monopoly: игра в монополия, настольные игра
+playing organ: игра на орган, музыкальные инструмент
+playing paintball: игра в пейнтбол, экстремальный спорт
+playing piano: игра на пианин, музыкальные инструмент
+playing poker: игра в покер, карточные игра
+playing recorder: игра на блокфлеть, музыкальные инструмент
+playing saxophone: игра на саксофон, музыкальные инструмент
+playing squash or racquetball: игра в сквош или ракетбол, спорт
+playing tennis: игра в теннис, спорт
+playing trombone: игра на тромбон, музыкальные инструмент
+playing trumpet: игра на труба, музыкальные инструмент
+playing ukulele: игра на укулела, музыкальные инструмент
+playing violin: игра на скрипка, струнные инструмент
+playing volleyball: игра в волейбол, спорт
+playing xylophone: игра на ксилофон, ударные инструмент
+pole vault: прыжки с шест, легкая атлетик
+presenting weather forecast: ведение прогноза погода, телевидение
+pull ups: подтягивание, упражнение
+pumping fist: махание кулак, жест
+pumping gas: заправка топливо, обслуживание
+punching bag: удар по мешок, бокс
+punching person (boxing): удар по человеку (бокс), бой
+push up: отжимание, упражнение
+pushing car: толкание машина, помощь на дорог
+pushing cart: толкание тележка, покупка
+pushing wheelchair: толкание инвалидной коляска, помощь
+reading book: чтение книга, чтение
+reading newspaper: чтение газета, новость
+recording music: запись музыка, студийная работа
+riding a bike: езда на велосипед, велоспорт
+riding camel: езда на верблюд, экзотика
+riding elephant: езда на слон, экзотика
+riding mechanical bull: езда на механическом бык, аттракцион
+riding mountain bike: езда на горном велосипед, велоспорт
+riding mule: езда на мула, животноводство
+riding or walking with horse: езда или прогулка с лошадь, конный спорт
+riding scooter: езда на скутер, транспорт
+riding unicycle: езда на моноцикл, цирковое искусство
+ripping paper: рвать бумага, разрыв
+robot dancing: танец робот, современный танец
+rock climbing: скалолазание, альпинизм
+rock scissors paper: камень-ножницы-бумага, детская игра
+roller skating: катание на ролик, спорт
+running on treadmill: бег на беговой дорожка, фитнес
+sailing: парусный спорт, плавание
+salsa dancing: танец сальс, латиноамериканский танец
+sanding floor: шлифовка полый, ремонт
+scrambling eggs: взбивание яица, приготовление пища
+scuba diving: подводное плавание, дайвинг
+setting table: сервировка стола, подготовка
+shaking hands: рукопожатие, приветствие
+shaking head: кивание голов, жест
+sharpening knives: заточка нож, кухонные принадлежность
+sharpening pencil: заточка карандаш, канцелярские принадлежность
+shaving head: бритье головый, уход за волос
+shaving legs: бритье ногий, уход за телый
+shearing sheep: стрижка овец, фермерство
+shining shoes: чистка обувь, уход
+shooting basketball: бросок в баскетбол, спорт
+shooting goal (soccer): забивание гола (футбол), футбол
+shot put: толкание ядро, легкая атлетик
+shoveling snow: уборка снег, зимняя уборка
+shredding paper: измельчение бумага, утилизация
+shuffling cards: тасование карта, подготовка к игра
+side kick: боковой удар, боевые искусство
+sign language interpreting: перевод на жестовый язык, коммуникация
+singing: пение, вокал
+situp: подъем корпус, упражнение
+skateboarding: катание на скейтборд, спорт
+ski jumping: прыжки с трамплина, лыжный спорт
+skiing (not slalom or crosscountry): катание на лыжах (не слалом или кросс), зимний спорт
+skiing crosscountry: лыжные гонка, лыжный спорт
+skiing slalom: слалом на лыжа, зимний спорт
+skipping rope: прыжки через скакалка, фитнес
+skydiving: парашютизм, воздушный спорт
+slacklining: хождение по строп, экстремальный спорт
+slapping: пощёчина, удар
+sled dog racing: гонки на собачьих упряжка, зимний спорт
+smoking: курение, табак
+smoking hookah: курение кальяна, отдых
+snatch weight lifting: рывок в тяжелой атлетик, спорт
+sneezing: чихание, рефлекс
+sniffing: обнюхивание, нюх
+snorkeling: плавание с маска, подводное плавание
+snowboarding: сноуборд, зимний спорт
+snowkiting: сноукайтинг, зимний спорт
+snowmobiling: катание на снегоход, зимний транспорт
+somersaulting: кувыркание, акробатика
+spinning poi: вращение поить, огненное шоу
+spray painting: рисование аэрозоль, граффити
+spraying: распыление, опрыскивание
+springboard diving: прыжки с трамплина, водный спорт
+squat: приседание, упражнение
+sticking tongue out: показывание язык, жест
+stomping grapes: топтание виноград, виноделие
+stretching arm: растяжка рук, упражнение
+stretching leg: растяжка ногий, упражнение
+strumming guitar: перебор струна, игра на гитара
+surfing crowd: серфинг по толп, экстремальный спорт
+surfing water: серфинг на вод, водный спорт
+sweeping floor: подметание полый, уборка
+swimming backstroke: плавание на спин, водный спорт
+swimming breast stroke: плавание брасс, водный спорт
+swimming butterfly stroke: плавание баттерфлять, водный спорт
+swing dancing: свинг танец, парный танец
+swinging legs: качание ног, жест
+swinging on something: качание на ч-то, игра
+sword fighting: фехтование, боевые искусство
+tai chi: тай-чи, китайское боевое искусство
+taking a shower: принятие душа, гигиена
+tango dancing: танго, парный танец
+tap dancing: чечётка, танцевальный стиль
+tapping guitar: игра на гитара, техника таппинг
+tapping pen: постукивание ручка, нервозность
+tasting beer: дегустация пиво, напиток
+tasting food: дегустация пища, кулинария
+testifying: свидетельство, показание
+texting: отправка сообщение, переписка
+throwing axe: метание топор, боевые искусство
+throwing ball: бросок мяч, спорт
+throwing discus: метание диск, легкая атлетик
+tickling: щекотка, игра
+tobogganing: катание на сани, зимний спорт
+tossing coin: подбрасывание монет, решение
+tossing salad: перемешивание салат, кулинария
+training dog: дрессировка собак, уход за животный
+trapezing: выступление на трапеция, цирковое искусство
+trimming or shaving beard: подравнивание или бритье бород, уход за лицо
+trimming trees: обрезка дерево, садоводство
+triple jump: тройной прыжок, легкая атлетик
+tying bow tie: завязывание галстук-бабочка, одежда
+tying knot (not on a tie): завязывание узла (не на галстуке), морское деть
+tying tie: завязывание галстук, одежда
+unboxing: распаковка, обзор
+unloading truck: разгрузка грузовик, логистика
+using computer: использование компьютер, работа
+using remote controller (not gaming): использование пульта дистанционного управления (не для игр), бытовая техника
+using segway: использование сегветь, транспорт
+vault: прыжок с шест, легкая атлетик
+waiting in line: ожидание в очереди, общественная жизнь
+walking the dog: прогулка с собака, уход за животный
+washing dishes: мытье посуд, уборка
+washing feet: мытье ногий, гигиена
+washing hair: мытье волосый, уход за волос
+washing hands: мытье рук, гигиена
+water skiing: водные лыжа, водный спорт
+water sliding: спуск по водной горка, аквапарк
+watering plants: полив растение, садоводство
+waxing back: эпиляция спин, уход за телый
+waxing chest: эпиляция грудь, уход за телый
+waxing eyebrows: эпиляция бровый, макияж
+waxing legs: эпиляция ногий, уход за телый
+weaving basket: плетение корзин, рукоделие
+welding: сварка, металлообработка
+whistling: свист, насвистывание
+windsurfing: виндсёрфинг, водный спорт
+wrapping present: упаковка подарка, праздник
+wrestling: борьба, спортивная борьба
+writing: письмо, запись
+yawning: зевание, усталость
+yoga: йог, медитация
+zumba: зумба, фитнес-танец

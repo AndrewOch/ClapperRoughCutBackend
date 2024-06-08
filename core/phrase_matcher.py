@@ -1,9 +1,8 @@
 import re
 import string
-
 from fonetika.soundex import RussianSoundex
-
-from project.subtitle import MatchingResult, Subtitle
+from icecream import ic
+from project.Subtitle import MatchingResult, Subtitle
 
 soundex = RussianSoundex(delete_first_letter=True)
 soundex_dictionary = {}
@@ -38,28 +37,49 @@ def remove_enclosed_text(text: str) -> str:
     return result.strip()
 
 
-def match_phrases(files, phrases):
+def match_phrases(files, phrases, threshold=0.33):
     results = []
     for file in files:
-        best_phrase, segments_data, best_cross_length = _match_phrase(file['subtitles'], phrases)
+        best_phrase, segments_data, best_cross_length = _match_phrase(file['subtitles'], phrases,
+                                                                      file["truePhraseId"])
         if best_phrase:
             new_subtitles = _create_new_subtitles(file['subtitles'], segments_data, best_phrase)
             match_phrase_file_response = {
                 "subtitles": new_subtitles,
                 "id": file['id']
             }
-            match_phrase_response = {
-                "file": match_phrase_file_response,
-                "best_match": {
-                    "phrase_id": str(best_phrase.phrase_id),
-                    "accuracy": best_cross_length / len(best_phrase.prepared_soundex)
+            accuracy = min(best_cross_length / len(best_phrase.prepared_soundex), 1)
+            if best_cross_length < 8 and accuracy < threshold:
+                match_phrase_file_response = {
+                    "subtitles": [],
+                    "id": file['id']
                 }
+                match_phrase_response = {
+                    "file": match_phrase_file_response
+                }
+                results.append(match_phrase_response)
+            else:
+                match_phrase_response = {
+                    "file": match_phrase_file_response,
+                    "best_match": {
+                        "phrase_id": str(best_phrase.phrase_id),
+                        "accuracy": accuracy
+                    }
+                }
+                results.append(match_phrase_response)
+        else:
+            match_phrase_file_response = {
+                "subtitles": [],
+                "id": file['id']
+            }
+            match_phrase_response = {
+                "file": match_phrase_file_response
             }
             results.append(match_phrase_response)
     return results
 
 
-def _match_phrase(subtitles, phrases):
+def _match_phrase(subtitles, phrases, truePhraseId):
     sub_soundex = [soundex_transform(processed_text)
                    for sub in subtitles
                    if (processed_text := remove_punctuation(remove_enclosed_text(sub.text))) and
@@ -69,6 +89,8 @@ def _match_phrase(subtitles, phrases):
     best_cross_length = 0
 
     for phrase in phrases:
+        if len(phrase.prepared_soundex) == 0:
+            continue
         matches = []
         start_idx = 0
         phrase_end = -1
@@ -76,7 +98,8 @@ def _match_phrase(subtitles, phrases):
         max_cross_length = 0
         cross_length = 0
         while start_idx < len(sub_soundex):
-            segment_length, new_start, is_matching, phrase_start = _check_match(sub_soundex, phrase.prepared_soundex,
+            segment_length, new_start, is_matching, phrase_start = _check_match(sub_soundex,
+                                                                                phrase.prepared_soundex,
                                                                                 start_idx)
             length = segment_length if is_matching else 0
             if segment_length > 0:
@@ -89,11 +112,22 @@ def _match_phrase(subtitles, phrases):
                 if phrase_start > phrase_end and (phrase_end < 0 or abs(
                         (phrase_start - phrase_end - 1) - (next_matched_segment_start - matched_segment_end)) < 2):
                     cross_length += length
-                elif max_cross_length < cross_length:
-                    max_cross_length = cross_length
-                    cross_length = 0
-                phrase_end = phrase_start + length - 1
+                    phrase_end = phrase_start + length - 1
+                else:
+                    if max_cross_length < cross_length:
+                        max_cross_length = cross_length
+                    cross_length = length
+                    phrase_end = phrase_start + length - 1
                 matched_segment_end = end_idx
+        if max_cross_length < cross_length:
+            max_cross_length = cross_length
+        acc = (max_cross_length / len(phrase.prepared_soundex))
+        if truePhraseId == phrase.phrase_id and acc < 0.33 and max_cross_length < 8:
+            segment_texts = []
+            for start_idx, end_idx, match_count in matches:
+                segment_text = ''.join(sub.text for sub in subtitles[start_idx:end_idx + 1])
+                segment_texts.append(f"[{match_count}] {segment_text}")
+            ic(f"{acc:.2f} {max_cross_length} {len(phrase.prepared_soundex)}", segment_texts)
         if len(matches) > 0 and max_cross_length > best_cross_length:
             best_cross_length = max_cross_length
             best_phrase = phrase

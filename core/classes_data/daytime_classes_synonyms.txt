@@ -1,4 +1,4 @@
-day: daytime, day, daylight, sunlight, sunshine, bright
-evening: flush, eve, even out, eventide, even, level, last light, dusk, sundown, sunset, twilight
-morning: dayspring, aurora, forenoon, morningtime, dawn, morning, daybreak, break day, morn, sunrise, sunup, cockcrow, first light
-night: nox, night, dark, nighttime, midnight, bedtime, blackness, darkness, nightfall
+day: день, дневное время, светлое время сутка, денёк, среди дний, полдень, посреди дний
+evening: вечер, вечернее время, закат, сумерки, предзакатное время, к вечер, вечером
+morning: утро, утреннее время, рассвет, заря, на зара, на рассвет, рано утром
+night: ночь, ночное время, полночь, темное время сутка, глубокая ночь, посреди ночь, ночью
