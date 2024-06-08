@@ -1,17 +1,14 @@
+import re
+import ssl
 import string
 from collections import defaultdict
 from time import time
 
-import icecream
 import nltk
-from nltk import pos_tag
-from nltk.corpus import stopwords, wordnet
-from nltk.stem import WordNetLemmatizer
+from icecream import ic, icecream
+from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
-
-from core.translator import translator_pool
-import ssl
-import re
+from pymorphy2 import MorphAnalyzer
 
 try:
     _create_unverified_https_context = ssl._create_unverified_context
@@ -22,8 +19,8 @@ else:
 
 nltk.download('punkt')
 nltk.download('stopwords')
-nltk.download('wordnet')
-nltk.download('averaged_perceptron_tagger')
+
+morph = MorphAnalyzer()
 
 
 def read_words_from_file(file_path):
@@ -84,7 +81,7 @@ def classify_object(tokens):
 
 
 def classify_location(tokens):
-    classes, classes_synonyms_counts, used_words = _classify_from_dict(tokens, object_classes_dict)
+    classes, classes_synonyms_counts, used_words = _classify_from_dict(tokens, location_classes_dict)
     for class_name in list(classes):
         if class_name in natures:
             classes.add('nature')
@@ -135,74 +132,53 @@ def _classify_from_dict(tokens, classes_dict):
     return classes, classes_synonyms_counts, used_words
 
 
-def classify_text(full_text):
-    return [], 0, 0
-    # start_time = time()
-    # translated_text = translator_pool.translate_text(full_text)
-    # tokens = process_text(translated_text)
-    #
-    # classes = set()
-    # classes_synonyms_counts = defaultdict(int)
-    # all_used_words = set()
-    #
-    # classification_functions = [
-    #     (classify_object, (tokens,)),
-    #     (classify_location, (tokens,)),
-    #     (classify_audio, (tokens,)),
-    #     (classify_action, (tokens,)),
-    #     (classify_daytime, (tokens, full_text)),
-    # ]
-    #
-    # for func, args in classification_functions:
-    #     result_classes, result_counts, result_used_words = func(*args)
-    #     classes.update(result_classes)
-    #     for key, count in result_counts.items():
-    #         classes_synonyms_counts[key] += count
-    #     all_used_words.update(result_used_words)
-    #
-    # unused_words_counts = defaultdict(int)
-    # used_words_list = list(all_used_words)
-    # for token in tokens:
-    #     if token not in used_words_list:
-    #         unused_words_counts[token] += 1
-    # icecream.ic(full_text, tokens, classes)
-    # end_time = time()
-    # print(f"Action processed in {end_time - start_time} seconds.")
-    # return list(classes), classes_synonyms_counts, unused_words_counts
-
-
-def get_wordnet_pos(tag):
-    if tag.startswith('J'):
-        return wordnet.ADJ
-    elif tag.startswith('V'):
-        return wordnet.VERB
-    elif tag.startswith('N'):
-        return wordnet.NOUN
-    elif tag.startswith('R'):
-        return wordnet.ADV
-    else:
-        return None
-
-
 def process_text(text):
     text_nopunct = ''.join([char for char in text if char not in string.punctuation])
-
-    tokens = word_tokenize(text_nopunct)
-
-    filtered_tokens = [word for word in tokens if word.lower() not in stopwords.words('english')]
-    filtered_tokens = [word for word in filtered_tokens if re.match(r'^[A-Za-z]{1,15}$', word)]
-
-    tagged_tokens = pos_tag(filtered_tokens)
-
-    lemmatizer = WordNetLemmatizer()
-    lemmatized_tokens = []
-    for word, tag in tagged_tokens:
-        wn_tag = get_wordnet_pos(tag)
-        if wn_tag is None:
-
-            lemma = lemmatizer.lemmatize(word.lower())
-        else:
-            lemma = lemmatizer.lemmatize(word.lower(), pos=wn_tag)
-        lemmatized_tokens.append(lemma)
-
+    tokens = word_tokenize(text_nopunct, language='russian')
+    filtered_tokens = [word for word in tokens if word.lower() not in stopwords.words('russian')]
+    lemmatized_tokens = [morph.parse(word)[0].normal_form for word in filtered_tokens]
     return lemmatized_tokens
+
+
+def add_character_names_to_dict(character_names):
+    character_tokens = set()
+    icecream.ic(character_names)
+    for name in character_names:
+        character_tokens.update(process_text(name))
+
+    for token in character_tokens:
+        object_classes_dict[token] = 'person'
+
+
+def classify_text(full_text):
+    start_time = time()
+    tokens = process_text(full_text)
+
+    classes = set()
+    classes_synonyms_counts = defaultdict(int)
+    all_used_words = set()
+
+    classification_functions = [
+        (classify_object, (tokens,)),
+        (classify_location, (tokens,)),
+        (classify_audio, (tokens,)),
+        (classify_action, (tokens,)),
+        (classify_daytime, (tokens, full_text)),
+    ]
+
+    for func, args in classification_functions:
+        result_classes, result_counts, result_used_words = func(*args)
+        classes.update(result_classes)
+        for key, count in result_counts.items():
+            classes_synonyms_counts[key] += count
+        all_used_words.update(result_used_words)
+
+    unused_words_counts = defaultdict(int)
+    used_words_list = list(all_used_words)
+    for token in tokens:
+        if token not in used_words_list:
+            unused_words_counts[token] += 1
+    ic(full_text, tokens, classes)
+    end_time = time()
+    print(f"Action processed in {end_time - start_time} seconds.")
+    return list(classes), classes_synonyms_counts, unused_words_counts

@@ -1,127 +1,126 @@
-airport inside: airport inside
-artstudio: artstudio
-auditorium: auditorium
-bakery: bakeshop, bakery, bakehouse
-bookstore: bookstore, bookshop, bookstall
-bowling: bowling
-buffet: snackcounter, batter, sideboard, counter, buff, buffet, snackbar, knockabout
-casino: cassino, gamblingcasino, casino
-children room: child room
-church inside: church inside
-classroom: schoolroom, classroom
-cloister: cloister, religiousresidence
-closet: watercloset, cupboard, loo, closet, wardrobe, press, wc
-clothingstore: clothingstore
-computerroom: computerroom
-concert hall: concert hall
-corridor: corridor
-deli: foodshop, delicatessen, deli
-dentaloffice: dentaloffice
-dining room: dining room
-elevator: elevator, lift
-fastfood restaurant: fastfood restaurant
-florist: floristshop, florist, flowerstore
-gameroom: gameroom
-garage: garage, servicedepartment
-greenhouse: greenhouse, glasshouse
-grocerystore: grocerystore
-gym: gymnasium, gym
-hairsalon: hairsalon
-hospitalroom: hospitalroom
-inside bus: inside bus
-inside subway: inside subway
-jewelleryshop: jewelleryshop
-kindergarden: kindergarden
-kitchen: kitchen
-laboratorywet: laboratorywet
-laundromat: launderette, laundromat
-library: depositorylibrary, library, programlibrary, subroutinelibrary
-livingroom: livingroom
-lobby: buttonhole, hall, entrancehall, pressuregroup, thirdhouse, antechamber, lobby, vestibule, foyer, anteroom
-locker room: locker room
-mall: mall, center, plaza, shoppingcenter, shoppingmall, shoppingcentre, promenade
-meeting room: meeting room
-movietheater: movietheater
-museum: museum
-nursery: nursery, babysroom
-office: billet, businessoffice, part, governmentagency, position, post, power, berth, situation, function, bureau, authority, place, federalagency, role, officestaff, office, agency, spot
-operating room: operating room
-pantry: larder, buttery, pantry
-poolinside: poolinside
-prisoncell: prisoncell
-restaurant: eatinghouse, eatery, restaurant, eatingplace
-restaurant kitchen: restaurant kitchen
-shoeshop: shoeshop
-stairscase: stairscase
-studiomusic: studiomusic
-subway: underpass, subwaysystem, subway, tube, underground, metro
-toystore: toystore
-trainstation: trainstation
-tv studio: tv studio
-videostore: videostore
-waitingroom: waitingroom
-warehouse: warehouse, storagewarehouse
-winecellar: winecellar
-airport: drome, aerodrome, airport, airdrome
-alley: alley, bowlingalley, skittlealley, alleyway, backstreet
-beach: beach
-bridge: bridgecircuit, nosepiece, span, bridge, bridgedeck, bridgeover, bridgework
-campsite: camping area, camping site, bivouac, campsite, encampment, camping ground, campground
-canyon: canyon, canon
-cemetery: cemetery, necropolis, memorial park, burialsite, burying ground, graveyard, burial ground
-church: church building, church, christian church, church service
-city: city, metropolis, urban center
-cliff: drop off, cliff
-coast: coast, seacoast, slide, seashore, glide
-construction site: construction site
-dam: dam, damup, dekameter, decametre, dyke, dkm, dike, decameter, dekametre
-desert: desert, defect, forsake, abandon, desolate
-farm: raise, farm, grow, produce
-festival: festival, fete
-field: area, plain, champaign, subject, sphere, battleground, orbit, bailiwick, line business, airfield, study, field, battlefield, landing, domain
-forest: woodland, timberland, forest, afforest, wood, timber
-fortress: fortress, fort
-garden: garden
-glacier: glacier
-harbor: nurse, seaport, entertain, harbor, shield, harbour
-hills: bennyhill, mound, pitchersmound, jjhill, alfredhawthorne, jamesjeromehill, hill
-island: island
-jungle: hobocamp, jungle
-lake: lake
-lighthouse: beaconlight, lighthouse, pharos, beacon
-mine: mine
-mosque: mosque
-mountain: sight, wad, batch, deal, mess, mount, passel, flock, mountain, mass, muckle, peck, greatdeal, slew, quite little, hatful, mint, spate, stack, tidysum, plenty, pile, mickle
-observatory: observatory, observationtower, lookout, lookoutstation
-orchard: woodlet, orchard
-palace: castle, palace
-park: mungopark, carpark, green, park, parkinglot, ballpark, parkland, common
-plantation: plantation, grove
-port: portwine, interface, port, porthole, larboard, embrasure
-race track: race track
-railway: railroadtrack, railwayline, railwaysystem, railroadline, railway, railroad
-river: river
-road: route, road
-ruins: downfall, ruination, wreck, smash, bankrupt, ruin, layingwaste, deflower, destroy, break, dilapidation
-savanna: savannah, savanna
-square: lame, substantial, foursquare, squaretoes, satisfy, solid, feather, straightforward, squarely, hearty, straight, publicsquare, squareup, square, secondpower
-stadium: arena, sportsstadium, stadium
-street: street
-suburb: suburban area, suburb, suburbia
-swamp: swamp, flood, deluge, inundate, swampland, drench
-temple: tabernacle, temple, synagogue
-town: township, townspeople, townsfolk, ithieltown, town
-train station: train station
-tundra: tundra
-tunnel: burrow, tunnel
-underwater: submerge, subaquatic, underwater, subaqueous, submerse
-valley: valley, vale
-village: village, greenwichvillage, hamlet, settlement, smalltown
-volcano: volcano, vent
-waterfall: waterfall, fall
-wind farm: wind farm
-windmill: windmill, windgenerator, aerogenerator
-zoo: zoologicalgarden, zoo, menagerie
-interior: interior, indoors, inside building, inside house, room
-nature: nature, environment, landscape, world, outdoors, scenery
-interior: interior, int
+airport inside: внутри аэропорт, терминал, здание аэропорт, зал ожидание, пассажирский терминать
+artstudio: художественная студия, арт-студия, мастерская художник, творческая мастерский, студия искусство
+auditorium: аудитория, лекционный зать, зал собрание, зрительный зать, конференц-зал
+bakery: пекарня, булочный, хлебопекарня, кондитерский
+bookstore: книжный магазин, книжная лавка, магазин книга
+bowling: боулинг, боулинг-клуб, зал для боулинг, клуб боулинг
+buffet: буфет, шведский стола, закусочный, столовая
+casino: казино, игорный д, игорное заведение
+children room: детская комнат, игровая комнат, комната для детый
+church inside: внутри церковь, церковный интерьер, храмовое помещение, святилище
+classroom: классная комнат, учебная аудитория, класс
+cloister: монастырь, монастырский двор, монастырский комплекс, клуатр
+closet: шкаф, гардероб, кладовая, чулан
+clothingstore: магазин одежда, бутик, торговый зал одежда
+computerroom: компьютерный класс, комната с компьютер, компьютерный зать
+concert hall: концертный зать, музыкальный зать, филармония
+corridor: коридор, проход, холл
+deli: гастроном, деликатесный магазин, магазин деликатёс
+dentaloffice: стоматологический кабинет, кабинет зубного врач, стоматологическая клиник
+dining room: столовая, обеденная комнат, трапезный
+elevator: лифт, подъёмник, лифтовая кабин
+fastfood restaurant: ресторан быстрого питание, фастфуд, закусочный
+florist: цветочный магазин, флористическая лавка, магазин цвет
+gameroom: игровая комнат, зал игровых автомат, комната для игра
+garage: гараж, автосервис, мастерская
+greenhouse: теплица, оранжерея, парник
+grocerystore: продуктовый магазин, гастроном, продовольственный магазин
+gym: спортзал, тренажерный зать, спортивный зать
+hairsalon: парикмахерская, салон красота, салон парикмахер
+hospitalroom: больничная палат, медицинская комнат, палата
+inside bus: внутри автобус, салон автобус, автобусный салон
+inside subway: внутри метро, вагон метро, метро
+jewelleryshop: ювелирный магазин, ювелирная лавка, магазин украшение
+kindergarden: детский сад, дошкольное учреждение, садик
+kitchen: кухня, кухонное помещение, кухонная зон
+laboratorywet: мокрая лаборатория, лаборатория с жидкость, химическая лаборатория
+laundromat: прачечная, самообслуживающая прачечный, стиральная комнат
+library: библиотека, книгохранилище, читальный зать
+livingroom: гостиная, зал, общая комнат
+lobby: вестибюль, холл, фойе
+locker room: раздевалка, шкафчик, гардеробный
+mall: торговый центр, молл, торговый комплекс
+meeting room: конференц-зал, переговорный, комната для собрание
+movietheater: кинотеатр, кинозал, кинопоказ
+museum: музей, экспозиционный зать, галерея
+nursery: детский, ясли, детская комнат
+office: офис, рабочий кабинет, служебное помещение
+operating room: операционный, хирургический кабинет, операционный зать
+pantry: кладовая, буфетный, запасник
+poolinside: крытый бассейн, бассейн внутри, внутренний бассейн
+prisoncell: тюремная камера, камера заключение, тюремное помещение
+restaurant: ресторан, заведение общественного питание, трапезный
+restaurant kitchen: кухня ресторан, ресторанная кухня, профессиональная кухня
+shoeshop: обувной магазин, лавка обувь, магазин обувь
+stairscase: лестница, лестничный пролёт, лестничная клетка
+studiomusic: музыкальная студия, студия звукозапись, студия музыка
+subway: метро, подземка, подземный транспорт
+toystore: магазин игрушка, игрушечный магазин, лавка игрушка
+trainstation: железнодорожная станция, вокзал, станция поезд
+tv studio: телевизионная студия, студия тво, телестудия
+videostore: видеомагазин, прокат видео, магазин видео
+waitingroom: зал ожидание, комната ожидание, приёмный
+warehouse: склад, складское помещение, хранилище
+winecellar: винный погрести, винный подвал, подвал для вина
+airport: аэропорт, воздушный порт, аэровокзал
+alley: аллея, переулок, проход
+beach: пляж, берег, побережье
+bridge: мост, переправа, переход
+campsite: кемпинг, лагерь, место для лагерь
+canyon: каньон, ущелие, овраг
+cemetery: кладбище, могильник, некрополь
+church: церковь, храм, собор
+city: город, мегаполис, населенный пункт
+cliff: утёс, скала, обрыв
+coast: побережье, береговая линия, берег
+construction site: строительная площадка, стройка, стройплощадка
+dam: плотина, дамба, водозабор
+desert: пустыня, безлюдное место, песчаный массив
+farm: ферма, хозяйство, агроугодье
+festival: фестиваль, праздник, торжество
+field: поле, луг, пашня
+forest: лес, роща, лесной массив
+fortress: крепость, замок, укрепление
+garden: сад, огород, палисадник
+glacier: ледник, глетчер, снежник
+harbor: гавань, порт, причал
+hills: холм, возвышенность, гряда
+island: остров, островок, атолл
+jungle: джунгли, тропический лес, заросль
+lake: озеро, водоём, пруд
+lighthouse: маяк, световой башня, сигнальная башня
+mine: шахта, рудник, копь
+mosque: мечеть, исламский хра, минарет
+mountain: гора, горная вершин, хребет
+observatory: обсерватория, астрономическая башня, научная станция
+orchard: фруктовый сад, садоводческое хозяйство, плодовый сад
+palace: дворец, замок, резиденция
+park: парк, сквер, зелёная зон
+plantation: плантация, агроплантация, сельскохозяйственное угодье
+port: порт, гавань, причал
+race track: гоночная трасса, трек, автодром
+railway: железная дорогий, железнодорожный путь, рельс
+river: река, речка, водоток
+road: дорога, шоссе, путь
+ruins: руина, развалины, остаток
+savanna: саванна, тропическая равнин, африканская равнин
+square: площадь, сквер, общественное место
+stadium: стадион, арена, спортивное сооружение
+street: улица, дорога, проезжая часть
+suburb: пригород, окраина, окрестность
+swamp: болото, топь, трясина
+temple: храм, святилище, молельня
+town: городок, посёлок, небольшой город
+train station: железнодорожная станция, вокзал, станция поезд
+tundra: тундра, арктическая зон, заполярье
+tunnel: тоннель, подземный ход, проход
+underwater: подводный, под вода, подводный мир
+valley: долина, ущелие, низина
+village: деревня, село, посёлок
+volcano: вулкан, огнедышащая гор, кратер
+waterfall: водопад, каскад, водный поток
+wind farm: ветряная ферма, ветропарк, ветряная электростанция
+windmill: ветряная мельница, ветряк, ветродвигатель
+zoo: зоопарк, зверинец, зоосад
+nature: природа, окружающая среда, естественная среда, нат, натура, экстерьер
+interior: интерьер, внутренняя часть, оформление внутри, инт, внутри

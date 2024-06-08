@@ -1,303 +1,303 @@
-laughter: laughter, laugh
-whistling: whistle
-skateboard: skateboard
-oboe: hautboy, oboe, hautbois
-aircraft: aircraft
-electric_guitar: electric guitar, electricguitar
-rope_skipping: rope skip
-train_whistle: train whistle
-scissors: scissorgrip, scissors, pairofscissors, scissor, scissorhold, scissorshold, scissorsgrip
-typewriter: typewriter
-whispering: voicelessness, susurrant, whisper, susurration, murmur, rustle
-theremin: theremin
-click: click, penetrate, chatter, dog, cluck, mouseclick, clack, chink, detent, pawl, comehome, getacross, clink, flick, fallintoplace, sinkin, snap, suctionstop, getthrough
-dog_growl: dog growl
-nose_blowing: nose blow
-brass_instrument: brass, brassinstrument, brass instrument
-liquid_dripping: liquid drip
-car_passing_by: car passing
-timpani: tympani, tympanum, kettledrum, kettle, timpani
-subway_metro: subway metro
-door_slam: door slam
-mosquito_buzz: mosquito buzz
-eruption: extravasation, eruption, eructation, outbreak, volcaniceruption, bang, irruption, bam
-sewing_machine: sew machine, sewingmachine
-boom: microphoneboom, expand, gravy, boomout, mannafromheaven, thrive, bonanza, godsend, gold rush, din, bunce, windfall, nail, boom, flourish, blast
-church_bell: church bell, churchbell
-liquid_splashing: liquid splash
-saxophone: saxophone, sax
-motorboat_speedboat: motorboat speedboat
-sheep_bleat: sheep bleat
-ocean: sea, ocean
-playing_volleyball: play volleyball
-crow_caw: crow caw
-coin_dropping: coin drop
-rapping: rap, pink, knap
-scuba_diving: scubadiving, scuba dive
-didgeridoo: didgeridoo
-helicopter: whirlybird, eggbeater, chopper, helicopter
-piano: soft, pianoforte, fortepiano, pianissimo, piano, softly
-frog: toad, gaul, toadfrog, frog, salientian, anuran, batrachian
-microwave_oven: microwaveoven, microwave, microwave oven
-door: threshold, roomaccess, doorway, door
-gurgling: gurgle, guggle, burble, ripple, bubble
-snicker: snigger, snort, snicker
-ratchet_and_pawl: ratchet pawl
-biting: pungent, bite, biting, nip, bitter, sting, prick, barbed, mordacious, seizewithteeth
-hi_hat: hi hat
-giggling: giggle, titter
-glass_breaking: glass breaking
-booing: hiss, booing, boo
-power_windows: power window
-cutlery_silverware: cutlery silverware
-dog_howl: dog howl
-wind_rustling_leaves: wind rustle leaf
-motorcycle: motorcycle, motorbike, bike
-percussion: pleximetry, rhythmsection, percussionsection, percussion
-clapping: clap, spat, applaud, acclaim
-dog_whimper: dog whimper
-snake_hiss: snake hiss
-shofar: shofar, shophar
-gong: chime, gong, tamtam
-bowling_impact: bowling impact
-train_horn: train horn
-boat_water_vehicle: boat water vehicle
-coyote_howl: coyote howl
-bird_flapping: bird flapping
-fire: gooff, givenotice, fervour, kindle, arouse, fervor, fervidness, evoke, enkindle, sack, discharge, dismiss, givethesack, sendaway, fervency, openfire, forceout, terminate, raise, fuel, flame, fire, attack, givetheaxe, burn, burndown, flack, displace, ardor, flak, elicit, ardour, provoke
-lawn_mower: mower, lawnmower, lawn mower
-speech: speech, mannerofspeaking, actorsline, lecture, talk, oralcommunication, speechcommunication, language, address, voicecommunication, delivery, spokenlanguage, spokencommunication, word
-artillery_fire: artillery fire, artilleryfire, cannonfire
-mandolin: mandolin
-owl_hoot: owl hoot
-clarinet: clarinet
-disc_scratching: disc scratch
-camera: photographiccamera, camera, tvcamera, televisioncamera
-raindrop: raindrop
-singing_bowl: sing bowl
-cheering: inspire, barrack, satisfy, pepup, cheerup, jollyalong, hearten, shout, cheer, chirkup, urge, urgeon, rooton, comfort, embolden, jollyup, recreate, exhort
-dog_bow_wow: dog bow wow
-belly_laugh: thighslapper, scream, howler, bellylaugh, guffaw, belly laugh, wow, riot, sidesplitter
-engine: locomotive, locomotiveengine, engine, railwaylocomotive
-mallet_percussion: mallet percussion
-tambourine: tambourine
-guitar_strum: guitar strum
-bowed_string_instrument: bow string instrument
-choir_singing: choir singing
-dishes_pots_pans: dish pot pan
-drawer_open_close: drawer open close
-rail_transport: rail transport
-wood_cracking: wood cracking
-bus: jalopy, passengervehicle, bustopology, autobus, motorbus, omnibus, busbar, motorcoach, doubledecker, charabanc, jitney, heap, bus
-electric_shaver: shaver, electric shaver, electricshaver, electricrazor
-underwater_bubbling: underwater bubbling
-alarm_clock: alarm clock, alarm, alarmclock
-liquid_squishing: liquid squish
-cymbal: cymbal
-fowl: poultry, domesticfowl, bird, fowl
-frog_croak: frog croak
-orchestra: orchestra
-rowboat_canoe_kayak: rowboat canoe kayak
-train: train, caravan, convoy, rail, railroad
-tap: rap, tapdance, tip, pink, wiretap, spigot, exploit, tap, intercept, strike, bug, waterfaucet, dab, solicit, pat, watertap, hydrant, beg
-tick: markoff, mark, tick, retick, checkmark, beat, tickoff, checkoff, ticktack, ticktock
-police_siren: police siren
-baby_crying: baby cry
-saw: saw
-liquid_sloshing: liquid slosh
-whoosh_swoosh_swish: whoosh swoosh swish
-playing_table_tennis: play table tennis
-snake_rattle: snake rattle
-toothbrush: soupstrainer, toothbrush
-wind_chime: wind chime, windchime, windbell
-vacuum_cleaner: vacuumcleaner, vacuum clean, vacuum
-rattle_instrument: rattle instrument
-ukulele: ukulele, uke
-babble: smatter, babble, ripple, bubble, blab, peach, guggle, blither, letthecatoutofthebag, blabout, babbleout, lallation, spillthebeans, burble, tattle, blether, blather, gurgle, babbling
-chopping_wood: chop wood
-chuckle_chortle: chuckle chortle
-snoring: snore, sawwood, sawlogs, stertor
-cat_purr: purr
-bell: bellshape, alexandermelvillebell, toll, alexandergrahambell, vanessastephen, chime, doorbell, buzzer, shipsbell, vanessabell, melvillebell, gong, alexanderbell, bell, campana
-whale_vocalization: whale vocalization
-clock: time, clock
-glockenspiel: glockenspiel, orchestralbells
-synthesizer: synthesiser, synthesizer, synthesist
-squeak: screak, squeak, closeshave, closecall, squeaker, skreak, creak, whine, narrowescape, screech
-wind_noise_microphone: wind noise microphone
-cough: cough
-bass_drum: bassdrum, grancasa, bass drum
-hair_dryer: handblower, hairdrier, hair dryer, blowdryer, blowdrier, hairdryer
-sigh: sigh, suspire, suspiration
-bird_chirp_tweet: bird chirp tweet
-airplane: plane, airplane, aeroplane
-yell: vociferation, scream, cry, holler, outcry, shout, squall, yell
-mechanical_fan: mechanical fan
-truck: handtruck, truck, motortruck
-bicycle_bell: bicycle bell
-slap_smack: slap smack
-waterfall: fall, waterfall
-bagpipes: bagpipe
-breathing: takeabreath, ventilation, suspire, breathe, eupnoeic, rest, respire, respiration, externalrespiration, takeabreather, emit, passoff, eupneic, catchonesbreath, breathing
-siren: temptress, siren, delilah, femmefatale, enchantress
-ringtone: ringtone
-guitar: guitar
-turkey_gobble: turkey gobble
-keys_jangling: key jangle
-chicken_cluck: chicken cluck
-knock: knock, ping, whack, criticise, roast, belt, rap, strikehard, bash, whang, criticize, pickapart, bang, pink, bump, tap
-bass_guitar: bass guitar, bassguitar
-playing_squash: play squash
-organ: hammondorgan, reedorgan, harmonium, electronicorgan, organ, electricorgan, pipeorgan
-foghorn: fogsignal, foghorn
-dog: hound, dog, pup, puppy
-gunshot_gunfire: gunshot gunfire
-hammond_organ: hammondorgan, electronicorgan, hammond organ, electricorgan, organ
-hammer: malleus, pound, powerhammer, mallet, forge, hammer, cock
-steel_guitar_slide_guitar: steel guitar slide guitar
-civil_defense_siren: civil defense siren
-engine_idling: engine idling
-pig_oink: pig oink
-music: music, euphony, medicine
-flute: champagneflute, transverseflute, flute, fluting, fluteglass
-engine_knocking: engine knocking
-sailing: soar, glide, navigation, voyage, sail, sailplane, seafaring, sweep, navigate
-glass_clink: glass clink
-tabla: tabla
-liquid_pouring: liquid pouring
-cowbell: cowbell
-fireworks: firework, pyrotechnic
-boiling: stew, seethe, boil, roil, churn, simmer, moil
-elk_bugle: elk bugle
-gasp: puff, pant, heave, gasp
-water_tap_faucet: water tap faucet
-chainsaw: chainsaw
-chewing: jaw, manducate, chew, masticate, mastication, manduction
-electronic_organ: hammondorgan, electronicorgan, electronic organ, electricorgan, organ
-wind: steer, hint, lift, curve, tip, malarky, wind, scent, idlewords, currentofair, meander, nothingness, hoist, malarkey, windinstrument, twine, windup, weave, thread, breakingwind, aircurrent, jazz, flatus, wander, wrap, nose, roll, fart, wreathe, confidentialinformation, twist
-chatter: click, jaw, palaver, gibber, gossip, chatter, piffle, gabble, chitchat, natter, clack, visit, blab, twaddle, prate, confab, yak, chat, claver, tattle, maunder, blabber, chaffer, shootthebreeze, chewthefat, tittletattle, yack, cackle, yaketyyak, prattle, confabulate
-engine_starting: engine start
-fire_crackle: fire crackle
-hiccup: singultus, hiccup, hiccough
-wind_instrument: wind, windinstrument, wind instrument
-lion_roar: lion, roar
-train_wheels_squealing: wheel squeal
-humming: seethe, buzz, thrum, hum
-chime: chime
-crowd: push, bunch, crowd, crew, gang, crowdtogether, herd
-thunderstorm: electricalstorm, thunderstorm, electricstorm
-shout: vociferation, holler, outcry, shout, exclaim, abuse, shoutout, cryout, callout, squall, clapperclaw, blackguard, yell
-thump_thud: thump thud
-harmonica: harmonica, mouthorgan
-sink_filling_washing: sink fill wash
-traffic_noise: traffic noise
-railroad_car: railroad car, railway car, railcar
-firecracker: firecracker, cracker, banger
-rain: rain, raindown, rainwater, rainfall, pelt
-guitar_tapping: guitar tap
-tearing: buck, charge, shoot, bust, rupture, fierce, pluck, violent, vehement, triggerhappy, lachrymation, tear, displume, shootdown, deplumate, deplume, lacrimation
-reverse_beeps: reverse beep
-playing_hockey: play hockey
-horse_neigh: horse neigh
-person_running: person run
-slurp: slurp
-goose_honk: goose honk
-playing_badminton: play badminton
-double_bass: bassviol, bullfiddle, double bass, contrabass, stringbass, bassfiddle, doublebass
-crushing: crush, smash, quell, devastate, suppression, oppress, trounce, beatout, suppress, demolish, stifle, squelch, squeeze, mash, jam, vanquish, shell, breakdown, squash
-playing_tennis: play tennis
-thunder: nosedrops, helldust, thunder, scag, skag, smack, bigh
-vibraphone: vibe, vibraphone, vibraharp
-drum_kit: drum kit
-bicycle: pedal, wheel, cycle, bicycle
-trombone: trombone
-bird: razz, shuttle, wench, hoot, hiss, doll, birdie, skirt, raspberry, bird, chick, snort, bronxcheer, fowl, birdwatch, dame, shuttlecock
-zither: zither, cither, zithern
-baby_laughter: baby laughter
-yodeling: yodel, descant, warble
-person_shuffling: person shuffle
-race_car: racecar, racingcar, racer, race car
-acoustic_guitar: acousticguitar, acoustic guitar
-bathtub_filling_washing: bathtub fill wash
-printer: pressman, printer, printingmachine
-air_conditioner: air conditioner, airconditioner, airconditioning
-fly_buzz: fly buzz
-duck_quack: duck quack
-burp: burping, belching, burp, belch, eructation, eruct, bubble
-horse_clip_clop: horse clip clop
-singing: singe, blab, sing, scorch, spillthebeans, peach, sear, cantabile, vocalize, tell, letthecatoutofthebag, whistle, tattle, blabout, swinge
-door_sliding: door slide
-cat: cat, kitten, kitty, mouser, puss, pussycat, tom, tomcat, tabby, ocelot, panther, puma, tiger, wildcat, caracal, lion
-marimba_xylophone: marimba xylophone
-engine_accelerating_revving: engine accelerate rev
-door_bell: door bell
-stream_burbling: stream burbling
-person_walking: person walk
-insect: dirtball, insect, worm, louse
-air_horn: air horn, airhorn
-plucked_string_instrument: pluck string instrument
-fire_engine_siren: fire engine siren
-trumpet: horn, cornet, trump, trumpet
-applause: applause, hand clap
-sitar: sitar
-finger_snapping: finger snap
-vehicle_skidding: vehicle skid
-harpsichord: harpsichord, cembalo
-drill: recitation, exercise, bore, drill, mandrillusleucophaeus, practise, practicesession, practice
-dog_bark: bark, dog voice
-liquid_spraying: liquid spray
-battle_cry: watchword, battle cry, rallyingcry, warwhoop, battlecry, warcry
-screaming: scream, holler, hollo, yell, uproarious, hilarious, shriek, screech
-zipper: zipper, zipup, slidefastener, zipfastener, zip
-writing: authorship, composition, write, indite, writtenmaterial, pieceofwriting, publish, pen, committaltowriting, compose, save, spell, dropaline
-sneeze: sneeze, sternutation
-skiing: ski, skiing
-bassoon: bassoon
-accordion: squeezebox, accordion, pianoaccordion
-steelpan: steelpan
-basketball_bounce: basketball bounce
-frying_food: fry food
-smoke_detector: smoke detector
-sea_waves: sea wave
-cat_meow: meow
-telephone: telephony, call, callup, telephoneset, telephone, ring, phone
-drum: swot, barrel, drum, swotup, getup, beat, grindaway, mugup, tympan, bone, drumfish, cram, brakedrum, boneup, metaldrum, thrum, membranophone
-power_tool: powertool, power tool
-chicken: chickenhearted, gallusgallus, volaille, yellow, poulet, chicken, wimp, yellowbellied, crybaby, whitelivered, lilylivered
-blender: liquidiser, liquidizer, blender
-typing_computer_keyboard: type computer keyboard
-liquid_filling_container: liquid filling container
-pigeon_dove_coo: pigeon dove coo
-chopping_food: chop food
-keyboard_musical: keyboard musical
-telephone_bell_ringing: telephone bell ring
-hedge_trimmer: hedge trimmer, hedgetrimmer
-cow_moo: cow moo
-liquid_trickle_dribble: liquid trickle dribble
-harp: harp, dwell, mouthorgan, mouthharp
-snare_drum: sidedrum, snare drum, snaredrum, snare
-water_pump: water pump, waterpump
-banjo: banjo
-rooster_crow: rooster crow
-tuning_fork: tuningfork, tune fork
-children_shouting: child shout
-typing: typecast, type, typewrite
-toilet_flush: toilet flush
-cello: cello, violoncello
-gargling: rinse, gargle
-bird_squawk: bird squawk
-bee_buzz: bee buzz
-french_horn: french horn, horn, frenchhorn
-tick_tock: tick tock
-violin_fiddle: violin fiddle
-emergency_vehicle: emergency vehicle
-crying_sobbing: cry sob
-water: watersystem, watersupply, weewee, irrigate, pee, urine, water, piddle, bodyofwater, piss, h2o
-car_horn: automobilehorn, motorhorn, car horn, horn, hooter, carhorn
-silence: still, quiet, shutup, muteness, quieten, silence, hush, hushup, secretiveness, secrecy
-ambulance_siren: ambulance siren
-crumpling_crinkling: crumple crinkle
-cricket_chirp: cricket chirp
-electric_piano: electric piano
-beep: claxon, honk, bleep, blare, toot, beep
-bird_vocalization: bird vocalization
+laughter: смех, хохот, гогот, ржание
+whistling: свист, насвистывание, свисток
+skateboard: скейтборд, доска, скейт
+oboe: гобой, духовой инструмент
+aircraft: самолёт, воздушное судный, авиалайнер
+electric_guitar: электрогитара, гитара
+rope_skipping: прыжки через скакалка, скакалка
+train_whistle: поездной гудка, свисток поезд
+scissors: ножницы, резак
+typewriter: пишущая машинка, машинописный аппарат
+whispering: шёпот, шушуканье
+theremin: терменвокс, электронный инструмент
+click: щелчок, клик
+dog_growl: рычание собак, грозный лать
+nose_blowing: сморкание, выдувание нос
+brass_instrument: медный духовой инструмент, труба, валторна
+liquid_dripping: капание жидкость, капля
+car_passing_by: проезжающая машина, автомобиль мить
+timpani: литавра, ударный инструмент
+subway_metro: метро, подземка
+door_slam: хлопанье дверие, захлопывание
+mosquito_buzz: жужжание комар, писк насекомое
+eruption: извержение, выброс
+sewing_machine: швейная машина, машинка
+boom: взрыв, громкий звук
+church_bell: церковный колокол, звон
+liquid_splashing: брызги жидкость, плеск
+saxophone: саксофон, духовой инструмент
+motorboat_speedboat: моторная лодка, катер
+sheep_bleat: блеяние овец, овечий голосый
+ocean: океан, морские простор
+playing_volleyball: игра в волейбол, волейбольный матч
+crow_caw: карканье ворона, воронья
+coin_dropping: падение монет, звенящий звук
+rapping: рэп, речитатив
+scuba_diving: подводное плавание, дайвинг
+didgeridoo: диджерид, австралийский духовой инструмент
+helicopter: вертолёт, авиационная машина
+piano: пианино, фортепиано
+frog: лягушка, амфибия
+microwave_oven: микроволновая печь, микроволновка
+door: дверь, вход
+gurgling: бульканье, журчание
+snicker: хихиканье, смешок
+ratchet_and_pawl: трещотка и храповик, механизм
+biting: кусание, укус
+hi_hat: хай-хэта, ударный инструмент
+giggling: хихиканье, смешок
+glass_breaking: разбивание стечь, треск
+booing: освистывание, улюлюканье
+power_windows: электрические стеклоподъемник, автоматические окно
+cutlery_silverware: столовые прибор, серебро
+dog_howl: вой собака, длительное завывание
+wind_rustling_leaves: шуршание листьевый, ветер в листва
+motorcycle: мотоцикл, байк
+percussion: перкуссия, ударные инструмент
+clapping: аплодисменты, хлопок
+dog_whimper: скуление собак, жалобные звук
+snake_hiss: шипение змея, змеиный звук
+shofar: шофара, еврейский рогий
+gong: гонг, ударный инструмент
+bowling_impact: удар боулинг, сбивание кегль
+train_horn: гудок поезд, сигнал
+boat_water_vehicle: лодка, водное транспортное средство
+coyote_howl: вой койот, завывание
+bird_flapping: хлопанье крыло, птичий звук
+fire: огонь, пожар
+lawn_mower: газонокосилка, триммер
+speech: речь, выступление
+artillery_fire: артиллерийский огонь, стрельба
+mandolin: мандолина, струнный инструмент
+owl_hoot: уханье сов, совиный звук
+clarinet: кларнет, духовой инструмент
+disc_scratching: скретчинг, царапанье диск
+camera: камера, фотоаппарат
+raindrop: капля дождь, дождевые капать
+singing_bowl: поющая чаша, тибетская чаша
+cheering: приветственные крик, аплодисменты
+dog_bow_wow: лай собака, гавканье
+belly_laugh: громкий смех, хохот
+engine: двигатель, мотор
+mallet_percussion: ударный инструмент, молотковый удар
+tambourine: тамбурин, бубна
+guitar_strum: перебор струна, аккорд
+bowed_string_instrument: смычковый инструмент, струнный инструмент
+choir_singing: хоровое пение, хоровой вокал
+dishes_pots_pans: посуда, кастрюли и сковородка
+drawer_open_close: открытие-закрытие ящик, ящичек
+rail_transport: железнодорожный транспорт, поезд
+wood_cracking: треск дерево, ломающийся древесный звук
+bus: автобус, транспортное средство
+electric_shaver: электробритва, машинка для бритие
+underwater_bubbling: подводное пузырение, пузыри под вода
+alarm_clock: будильник, сигнал
+liquid_squishing: плеск жидкость, хлюпанье
+cymbal: тарелка, ударный инструмент
+fowl: птица, домашняя птица
+frog_croak: кваканье лягушка, лягушачий звук
+orchestra: оркестр, симфонический ансамбль
+rowboat_canoe_kayak: гребная лодка, каноэ, каяк
+train: поезд, локомотив
+tap: кран, вентиль
+tick: тик, тиканье
+police_siren: полицейская сирить, сигнал
+baby_crying: плач ребёнок, младенческий крик
+saw: пила, распиловка
+liquid_sloshing: плескание жидкость, хлюпанье
+whoosh_swoosh_swish: свист, шелест, шум
+playing_table_tennis: игра в настольный теннис, пинг-понг
+snake_rattle: погремушка змея, звенящий звук
+toothbrush: зубная щетка, чистка зуб
+wind_chime: ветровой колокольчик, перезвон
+vacuum_cleaner: пылесос, уборочное устройство
+rattle_instrument: погремушка, музыкальная игрушка
+ukulele: укулела, гавайская гитара
+babble: лепет, болтовня
+chopping_wood: рубка др, колка
+chuckle_chortle: посмеивание, смешок
+snoring: храп, храпение
+cat_purr: мурлыканье кот, кошачий звук
+bell: колокол, звонок
+whale_vocalization: вокализация кит, звуки кит
+clock: часы, время
+glockenspiel: колокольчик, ударный инструмент
+synthesizer: синтезатор, электронный инструмент
+squeak: писк, скрип
+wind_noise_microphone: шум ветра в микрофон, шумовой эффект
+cough: кашель, покашливание
+bass_drum: бас-барабан, ударный инструмент
+hair_dryer: фен, сушилка для волосый
+sigh: вздох, выдох
+bird_chirp_tweet: птичье чириканье, щебет
+airplane: самолёт, авиалайнер
+yell: крик, вопль
+mechanical_fan: механический вентилятор, воздуходувка
+truck: грузовик, фура
+bicycle_bell: велосипедный звонок, звонок
+slap_smack: шлепок, удар
+waterfall: водопад, каскад
+bagpipes: волынка, духовой инструмент
+breathing: дыхание, вздох
+siren: сирена, сигнал
+ringtone: рингтон, звонок
+guitar: гитара, струнный инструмент
+turkey_gobble: клокотание индюк, индюшачий звук
+keys_jangling: звяканье ключий, звуки ключий
+chicken_cluck: кудахтанье курица, куриный звук
+knock: стук, постукивание
+bass_guitar: бас-гитара, струнный инструмент
+playing_squash: игра в сквош, сквош
+organ: орган, музыкальный инструмент
+foghorn: туманный сигнал, гудок
+dog: собака, пёс
+gunshot_gunfire: выстрел, стрельба
+hammond_organ: орган хаммонд, электроорган
+hammer: молоток, ударный инструмент
+steel_guitar_slide_guitar: слайд-гитара, стальная гитара
+civil_defense_siren: сирена гражданской оборона, сигнал тревога
+engine_idling: работающий на холостом ходу двигатель, холостой ход
+pig_oink: хрюканье свинья, свинячий звук
+music: музыка, мелодия
+flute: флейта, духовой инструмент
+engine_knocking: стук двигатель, постукивание
+sailing: парусный спорт, плавание
+glass_clink: звон стечь, звяканье
+tabla: табла, ударный инструмент
+liquid_pouring: наливание жидкость, переливание
+cowbell: коровий колокольчик, колокол
+fireworks: фейерверк, салют
+boiling: кипение, бурление
+elk_bugle: рев лось, звук лось
+gasp: вздох, ахание
+water_tap_faucet: водопроводный кран, вентиль
+chainsaw: бензопила, цепная пить
+chewing: жевание, пережёвывание
+electronic_organ: электронный орган, синтезатор
+wind: ветер, воздушный поток
+chatter: болтовня, щебетание
+engine_starting: запуск двигатель, старт
+fire_crackle: треск огнить, потрескивание
+hiccup: икота, икание
+wind_instrument: духовой инструмент, флейта
+lion_roar: рев лев, львиный рык
+train_wheels_squealing: скрежет колес поезд, визг
+humming: гудение, мурлыканье
+chime: колокольчик, звон
+crowd: толпа, множество людь
+thunderstorm: гроза, буря
+shout: крик, вопль
+thump_thud: глухой удар, стук
+harmonica: губная гармошка, гармоника
+sink_filling_washing: заполнение раковина, мытьё
+traffic_noise: шум транспорт, дорожный шум
+railroad_car: вагон, железнодорожный вагон
+firecracker: петарда, хлопушка
+rain: дождь, осадка
+guitar_tapping: таппинг на гитара, игра на гитара
+tearing: разрывание, рвать
+reverse_beeps: сигналы при движении назад, звуковые сигнал
+playing_hockey: игра в хоккей, хоккейный матч
+horse_neigh: ржание лошадь, лошадиный звук
+person_running: бегущий человек, бег
+slurp: чавканье, прихлебывание
+goose_honk: гоготание гусь, гусиный звук
+playing_badminton: игра в бадминтон, бадминтон
+double_bass: контрабас, басовый инструмент
+crushing: дробление, раздавливание
+playing_tennis: игра в теннис, теннисный матч
+thunder: гром, раскат
+vibraphone: вибрафон, ударный инструмент
+drum_kit: барабанная установка, ударная установка
+bicycle: велосипед, байк
+trombone: тромбон, духовой инструмент
+bird: птица, пернатый
+zither: цитра, струнный инструмент
+baby_laughter: смех младенец, детский смех
+yodeling: йодль, пение
+person_shuffling: шаркающий человек, человек с шаркание
+race_car: гоночный автомобиль, болид
+acoustic_guitar: акустическая гитара, гитара
+bathtub_filling_washing: заполнение ванный, купание
+printer: принтер, печатающее устройство
+air_conditioner: кондиционер, охлаждающее устройство
+fly_buzz: жужжание муха, мухин звук
+duck_quack: кряканье утка, утиный звук
+burp: отрыжка, рыгание
+horse_clip_clop: цокот копыт, звук копыто
+singing: пение, вокал
+door_sliding: раздвижная дверить, скользящая дверить
+cat: кошка, кот
+marimba_xylophone: маримба, ксилофон
+engine_accelerating_revving: ускорение двигатель, рев мотор
+door_bell: дверной звонок, звонок
+stream_burbling: журчание ручье, поток
+person_walking: идущий человек, шаг
+insect: насекомое, жук
+air_horn: воздушный клаксон, сирена
+plucked_string_instrument: щипковый струнный инструмент, гитара
+fire_engine_siren: сирена пожарной машина, сигнал
+trumpet: труба, духовой инструмент
+applause: аплодисменты, хлопок
+sitar: ситар, струнный инструмент
+finger_snapping: щелканье палец, щелчок
+vehicle_skidding: занос транспортного средство, скольжение
+harpsichord: клавесин, струнный инструмент
+drill: дрель, сверло
+dog_bark: лай собака, гавканье
+liquid_spraying: распыление жидкость, спреть
+battle_cry: боевой клич, военный з
+screaming: крик, вопль
+zipper: молния, застёжка
+writing: письмо, запись
+sneeze: чихание, чих
+skiing: катание на лыжа, лыжный спорт
+bassoon: фагот, духовой инструмент
+accordion: аккордеон, баян
+steelpan: стальной барабан, ударный инструмент
+basketball_bounce: отскок баскетбольного мяч, баскетбол
+frying_food: жарка ед, приготовление
+smoke_detector: датчик дым, пожарная сигнализация
+sea_waves: морские волна, шум морить
+cat_meow: мяуканье кот, кошачий звук
+telephone: телефон, звонок
+drum: барабан, ударный инструмент
+power_tool: электроинструмент, инструмент
+chicken: курица, цыплёнок
+blender: блендер, миксер
+typing_computer_keyboard: печать на клавиатура, набор текст
+liquid_filling_container: наливание жидкости в контейнер, заполнение
+pigeon_dove_coo: воркование голубь, голубиный звук
+chopping_food: нарезка ед, приготовление пища
+keyboard_musical: музыкальная клавиатура, синтезатор
+telephone_bell_ringing: звонок телефон, звонок
+hedge_trimmer: кусторез, триммер
+cow_moo: мычание коров, коровий звук
+liquid_trickle_dribble: струйка жидкость, капля
+harp: арфа, струнный инструмент
+snare_drum: малый барабан, ударный инструмент
+water_pump: водяной насос, помпа
+banjo: банджо, струнный инструмент
+rooster_crow: кукареканье петуха, петушиный звук
+tuning_fork: камертон, инструмент для настройка
+children_shouting: детские крик, шум ребёнок
+typing: печать, набор текст
+toilet_flush: смыв унитаз, смывание
+cello: виолончель, струнный инструмент
+gargling: полоскание, бульканье
+bird_squawk: крик птица, птичий звук
+bee_buzz: жужжание пчел, пчелиный звук
+french_horn: валторна, духовой инструмент
+tick_tock: тик-так, тиканье
+violin_fiddle: скрипка, смычковый инструмент
+emergency_vehicle: аварийное транспортное средство, машина скорой помощь
+crying_sobbing: плач, всхлипывание
+water: вода, водный поток
+car_horn: автомобильный гудка, сигнал
+silence: тишина, молчание
+ambulance_siren: сирена скорой помощь, сигнал
+crumpling_crinkling: мятие, шелест
+cricket_chirp: стрекот сверчок, сверчковый звук
+electric_piano: электрическое пианин, синтезатор
+beep: сигнал, писк
+bird_vocalization: птичье пение, щебет
